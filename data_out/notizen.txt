@@ -1,0 +1,66 @@
+06.04.
+Die Aussage ist richtig
+Aber teilweise bekomme ich als Output die viaf id teilweise den autornamen WARUM??
+
+weil bei diesen einträgen bei creator die viaf id an erster stelle steht
+sollte sich eigentlich durch eine einfache bedingung lösen lassen:
+wenn creator [0-9*] dann nimm den nächten creator eintrag
+was davon in python
+was in sparql
+kann ich das in sparql formulieren, wenn ja wie?
+ja, sparql hat bedingungen u möglichkeit variablen zuzuweisen
+
+erster schritt aber:
+wie kann ich auf "teil 2" des creator eintrags zugreifen?
+
+Ich könnte sehr einfach die einträge mit id aus den ergebnissen filtern
+--> löst aber nicht das problem, dass auf den zweiten creator eintrag zugegriffen werden soll
+gibt es sowas wie "full entry"
+
+frage zu klären: fehlt der texteintrag überhaupt oder habe ich nur einen zu viel?
+Mollet gibt es auch einfach nochmal als Texteintrag
+--> noch mit ein, zwei anderen Einträgen testen. wenn das da auch so ist, kann ich die id-einträge einfach eliminieren *muhaha*
+achtung: text u id variante stehen im file nicht beieinander
+
+=============================================================================================
+
+07.04.
+
+Testfall 1:
+https://viaf.org/viaf/54146831/ (Diderot) is creator of Pensées philosophiques en françois et en italien, auxquelles on a ajouté un Entretien d’un philosophe avec Mde la duchesse de ***, ouvrage posthume de Thomas Crudeli, en italien et en françois, par le même auteur
+--> gibt es auch in der richtigen Form
+
+Scheint zu klappen
+
+einträge mit ziffern rausgefiltert - check
+
+ok, wie weiter? 
+alphabetische sortierung relevant?
+write to file (ohne trennungsprobleme -.-)
+
+habe jetzt "is creator of" durch semikolon ersetzt
+--> korrekte trennung zwischen autor und titel 
+autorennamen werden mit komma getrennt, im werkfeld werden kommata sowohl zur trennung zwischen mehreren werken als auch um ergänzungen zum werktitel abzutrennen
+
+stimmt gar nicht!
+bei mehreren werken kommt der autor mehrmals vor
+guuuut
+und nu?
+via komma alles abtrennen was nicht direkt zum werktitel gehört?
+
+dann suche nach autor u werktitel
+
+bei suche nach protagonisten kommt man um eine manuelle prüfung nicht komplett drumrum
+aaaber man könnte einen abgleich zwischen autorennamen und figurennamen machen u nur bei überschneidungen händisch korrigieren
+
+
+
+
+
+
+
+
+
+
+
+

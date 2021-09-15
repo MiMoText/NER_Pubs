@@ -1,0 +1,2044 @@
+start 
+jean-)acques Rousseau, 0, 21, PER
+könnte, 112, 119, MISC
+Jean-Jacques Rousseau, 126, 147, PER
+Wünsche, 294, 302, MISC
+einlädt, 403, 411, LOC
+“, 499, 500, MISC
+Liebeskorrespondenz, 572, 591, PER
+Enthüllungen
+, 749, 763, ORG
+religiöse, 935, 945, PER
+Aufklärung, 959, 970, MISC
+Subjektivität, 1018, 1032, MISC
+Ursprüngen des Seins, 1125, 1146, MISC
+Sexualität, 1148, 1159, MISC
+Les Confessions, 1508, 1523, LOC
+Bücher, 1646, 1653, MISC
+Lesens begründeten, 1699, 1718, MISC
+Intimität, 1791, 1801, MISC
+Transparenz absteckten, 1806, 1828, PER
+Rousseaus Zeit
+, 1842, 1857, LOC
+Walburga Hülk
+, 1900, 1915, MISC
+Que de pleurs, 1916, 1929, MISC
+J, 1938, 1939, MISC
+III, 1941, 1944, MISC
+Tränen, 1967, 1974, MISC
+veröffentlicht, 2008, 2023, ORG
+vicle Tränen, 2039, 2052, ORG
+Francesco Petrarca, 2285, 2303, PER
+menf
+l'ebbe, 2384, 2395, PER
+Connobill'io, 2399, 2411, LOC
+zurück, 2520, 2527, LOC
+Petrarcas Sone
+, 2626, 2641, MISC
+Laura, 2674, 2679, PER
+europäischen, 2732, 2745, ORG
+fungier
+, 2798, 2806, PER
+bcreits, 2851, 2858, PER
+Schicksale unglückscliger Liebespaare, 2927, 2965, ORG
+unglück-
+seliger Liebespaare, 2968, 2997, ORG
+über, 3032, 3037, PER
+verhängnisvolle, 3193, 3209, ORG
+Abaelard, 3276, 3284, PER
+über, 3316, 3321, PER
+Abaelards, 3370, 3379, PER
+Histori
+, 3381, 3389, PER
+Briefwechsel, 3412, 3424, LOC
+Epistulae, 3426, 3435, LOC
+Authentizität, 3459, 3473, MISC
+cine Fiktion, 3581, 3593, PER
+Rousseau, 3730, 3738, PER
+durchgängigen, 3810, 3824, ORG
+Originalität, 3891, 3904, MISC
+Intertextualität, 3909, 3926, MISC
+Nouvelle Héloise, 3990, 4007, MISC
+Julie ou La nouvelle Héloise, 4115, 4144, PER
+verdrängt, 4163, 4173, MISC
+Abaelard
+, 4429, 4438, PER
+Abaelards, 4490, 4499, PER
+Jean-Jacques Rousseau, 4595, 4616, PER
+ders, 4653, 4657, MISC
+Euvres completes, 4661, 4677, ORG
+Bemard Gagnebin Marcel Raymond, 4688, 4718, PER
+Paris, 4728, 4733, LOC
+Pléiade, 4740, 4748, MISC
+Sprache, 4823, 4830, MISC
+Rousseau, 4836, 4844, PER
+Bezugs, 4948, 4954, PER
+Möglichkeiten, 5012, 5026, MISC
+Julie ou la Nouvelle Héloise, 5117, 5146, MISC
+Lettres de deux amans ..., 5152, 5177, MISC
+medias res, 5411, 5421, LOC
+längst, 5450, 5457, MISC
+j'aurois dû, 5536, 5548, MISC
+moins
+attendre, 5558, 5572, ORG
+ou plutôt il faloit, 5574, 5594, ORG
+Vous m'avez promis de l'amitié, 5665, 5696, PER
+voyez mes perplexités, 5698, 5720, PER
+J, 5741, 5742, MISC
+I, 5744, 5745, MISC
+Saint-Preux, 5752, 5763, LOC
+schönen, 5793, 5801, MISC
+Julie d'Etange, 5813, 5827, PER
+Abaelard, 5889, 5897, PER
+Robert Lovelace, 5922, 5937, PER
+Verführer, 5969, 5979, MISC
+Clarissa Harlowe, 5984, 6000, ORG
+Samuel Richardsons, 6004, 6022, PER
+siebenbändigem Briefroman, 6023, 6049, MISC
+Clarissa, 6060, 6068, ORG
+Or the
+History of a, 6070, 6089, MISC
+comprehending the Most Important concerns of Private
+Life, 6101, 6158, MISC
+Intimität, 6195, 6205, MISC
+Saint-Preux, 6302, 6313, LOC
+Julie
+, 6322, 6328, PER
+unmöglich, 6532, 6542, MISC
+Julies Mutter, 6591, 6604, PER
+naissance, 6867, 6876, PER
+charme' Julies, 6888, 6902, PER
+J, 6904, 6905, ORG
+I, 6907, 6908, MISC
+J, 7054, 7055, MISC
+I, 7057, 7058, MISC
+längst, 7156, 7163, MISC
+schön, 7233, 7239, MISC
+sensibilité si vive'
+, 7283, 7305, MISC
+J, 7306, 7307, MISC
+I, 7309, 7310, MISC
+verspürt, 7319, 7328, MISC
+Saint-Preux, 7430, 7441, PER
+Alpen, 7624, 7629, LOC
+Rousseaus, 7670, 7679, LOC
+aufklärerische, 7718, 7733, MISC
+me chasser!
+, 7755, 7767, ORG
+vous fuir!
+, 7772, 7783, ORG
+et d'aimer ce, 7855, 7868, MISC
+Avant que
+d'avoir pris les unifores préjugés du monde, 7900, 7955, MISC
+dans nos curs ce, 8047, 8063, MISC
+en même tems, 8184, 8197, ORG
+quelques larmes furtives, 8199, 8223, PER
+toute la
+force humaine ... ah, 8311, 8340, MISC
+pardon!
+, 8342, 8350, ORG
+j'ose prendre mes vœux pour de l'espoir, 8363, 8402, MISC
+lcur objet la possibilité qui lui manque, 8437, 8478, MISC
+J, 8480, 8481, ORG
+I.
+, 8483, 8486, ORG
+voluminösen
+, 8569, 8582, MISC
+grundsätzlichen, 8632, 8648, MISC
+Erfüllung, 8677, 8687, MISC
+“la possibilité, 8689, 8705, MISC
+lui manque', 8710, 8721, MISC
+J, 8723, 8724, MISC
+I, 8726, 8727, MISC
+Tränen, 8770, 8777, MISC
+Verbalität, 8825, 8836, MISC
+Glcichgültigkeit, 9180, 9197, MISC
+il m'échape, 9390, 9402, MISC
+et l'honneur est perdu, 9404, 9426, MISC
+est-il
+une mort plus cruelle que de survivre, 9459, 9503, MISC
+J, 9519, 9520, MISC
+I, 9522, 9523, MISC
+Standesehre, 9566, 9577, MISC
+Saint-Preux, 9624, 9635, LOC
+Stadt, 10173, 10178, LOC
+Saint-Preux, 10276, 10287, LOC
+Kuß, 10334, 10337, PER
+Rousseau, 10382, 10390, PER
+CII, 10498, 10501, MISC
+Kuß, 10508, 10511, MISC
+ma Julie, 10628, 10636, PER
+tu voulois, 10638, 10648, MISC
+suis ivre, 10686, 10695, PER
+mes maux!
+, 10822, 10832, PER
+tu les
+aigris, 10841, 10854, MISC
+il fermente, 10905, 10916, PER
+il embrase mon
+, 10918, 10933, MISC
+il me tue, 10939, 10948, MISC
+et ta pitié me fait mourir ..., 10950, 10981, MISC
+sens qu'il, 10985, 10995, MISC
+J, 11055, 11056, ORG
+I, 11058, 11059, MISC
+Claire, 11165, 11171, PER
+J, 11225, 11226, MISC
+I, 11228, 11229, MISC
+chute, 11260, 11265, MISC
+Saint-Preux, 11395, 11406, LOC
+j'esperai tirer de ma
+, 11479, 11501, PER
+un moyen de la réparer, 11507, 11530, MISC
+et j'osai former le projet de contraindre mon Pere
+a nous, 11532, 11589, MISC
+Le premier fruit de notre amour devoit, 11596, 11634, MISC
+ce doux lien, 11642, 11654, PER
+Je le désirois comme un autre a ma place auroit pu le craindre, 11748, 11811, MISC
+le
+tendre amour tempérant par son prestige le murmure de la conscience, 11813, 11884, MISC
+me
+consoloit de ma foiblesse par l'effet que j'en attendois, 11886, 11945, ORG
+J, 12014, 12015, ORG
+III, 12017, 12020, MISC
+Julie, 12041, 12046, PER
+erzählt, 12149, 12157, MISC
+längst, 12163, 12170, MISC
+Claire, 12445, 12451, MISC
+J, 12490, 12491, MISC
+I, 12493, 12494, MISC
+Julie, 12562, 12567, PER
+ne l'avois jamais, 12670, 12687, PER
+venoit d'avoir querelle, 12720, 12743, PER
+J, 12827, 12828, MISC
+I, 12830, 12831, MISC
+zunächst allge-
+, 12858, 12875, ORG
+J, 12904, 12905, ORG
+I, 12907, 12908, MISC
+Haus, 12978, 12982, LOC
+über, 13017, 13022, PER
+zuhören, 13048, 13056, MISC
+Schönredner, 13093, 13105, MISC
+z
+, 13117, 13119, ORG
+verführen, 13146, 13156, PER
+J, 13277, 13278, MISC
+I, 13280, 13281, MISC
+Türen, 13296, 13302, MISC
+Häuser öffnen müßten, 13307, 13330, MISC
+jamais un homme digne de tant d'injures, 13427, 13466, PER
+J, 13495, 13496, MISC
+I, 13498, 13499, MISC
+gerät, 13511, 13517, PER
+mon pere, 13571, 13579, PER
+qui crut sentir un reproche à, 13581, 13611, ORG
+n'attendoit qu'un prétexte, 13647, 13674, PER
+sur ta pauvre amie, 13686, 13704, MISC
+recus un, 13742, 13750, PER
+et se livrant, 13784, 13797, MISC
+il me maltraita sans
+menagement, 13874, 13905, MISC
+quoiquc ma mere se fut jettée entre dcux, 13907, 13948, MISC
+m'eut couverte de son
+corps, 13950, 13977, MISC
+et eut recu quelques, 13979, 13999, MISC
+coups qui m'étoient portés, 14008, 14036, LOC
+pouI
+, 14050, 14055, PER
+J. I, 14171, 14175, PER
+Julies, 14207, 14213, PER
+Vaters
+, 14264, 14271, MISC
+Verfügungsgewalt über, 14604, 14627, PER
+zurückgewinnt, 14640, 14654, ORG
+übrigens fünfzig
+, 14754, 14773, ORG
+Heinrich von Kleists, 14803, 14823, PER
+Die Marguise von O ...
+, 14835, 14858, MISC
+Vinken, 14883, 14889, LOC
+Haverkamp, 14892, 14901, LOC
+mais ce silence etoit de honte et non de dédain, 14951, 14999, LOC
+il
+affectoit de trouver, 15001, 15024, MISC
+et e
+qui me toucha le plus sensiblement, 15078, 15117, MISC
+fut de m'appercevoir qu'il cherchoit les
+occasions de nommer sa fille, 15119, 15188, ORG
+et non pas Julie comme a l'ordinaire, 15190, 15226, ORG
+Apres le soupé, 15230, 15245, LOC
+l'air se trouva si froid, 15247, 15271, LOC
+coins de la cheminéc et mon pere, 15343, 15376, MISC
+quand m'arrêtant par ma robe et me
+, 15443, 15479, MISC
+à lui sans rien dire, 15486, 15507, PER
+il m'assit sur ses genoux, 15509, 15534, MISC
+et par une sorte de mouvement si involontaire, 15571, 15616, MISC
+qu'il en eut une espece de
+, 15618, 15645, LOC
+j'étois sur ses genoux, 15687, 15710, PER
+il ne pouvoit
+plus s'en dédire, 15712, 15743, ORG
+et ce qu'il y avoit de pis pour la contenance, 15745, 15790, MISC
+il faloit me tenir
+, 15792, 15811, MISC
+mais je
+, 15885, 15893, MISC
+étouffé.
+Je ne sais, 15980, 16001, MISC
+une certaine gravité qu'on, 16095, 16122, MISC
+une
+certaine confusion qu'on n'osoit vaincre, 16140, 16184, PER
+mettoient entre un pere ct, 16185, 16211, ORG
+tandis qu une
+tendre, 16286, 16306, ORG
+d'aise, 16326, 16332, PER
+dévoroit en secret un si doux spectacle, 16334, 16374, MISC
+voyois, 16379, 16385, LOC
+sentois tout cela, 16390, 16407, ORG
+mon ange, 16409, 16417, ORG
+feignis de glisser, 16492, 16510, PER
+penchai mon visage sur son visage vénérable, 16569, 16614, MISC
+et dans un instant il fut
+
+, 16616, 16643, MISC
+yeux qu'il, 16759, 16769, ORG
+ma mere vint partager, 16815, 16836, PER
+Douce et paisible innocence, 16853, 16880, MISC
+tu manquas, 16882, 16892, ORG
+J, 16991, 16992, ORG
+I, 16994, 16995, MISC
+unsägliche, 17017, 17028, MISC
+mündet, 17123, 17130, MISC
+Ausweg-, 17163, 17170, MISC
+Gesetzes des Vaters vorzeichnet, 17223, 17254, MISC
+läßt, 17348, 17353, MISC
+Julies
+, 17416, 17423, ORG
+la lassitude et le ressentiment de ma chute m'ayant retenue au lit un peu
+, 17456, 17530, LOC
+mon pere est entré dans ma chambre avant que, 17536, 17581, MISC
+il s'est assis, 17599, 17613, MISC
+lui ai dit, 17692, 17702, MISC
+que je serois, 17720, 17733, MISC
+tous les jours au même prix, 17762, 17790, MISC
+suis
+prête, 17962, 17973, PER
+Après ma Lettre écrite, 18055, 18079, MISC
+j'ai passé dans la chambre de ma mere, 18081, 18119, MISC
+et je, 18121, 18126, MISC
+crains, 18239, 18245, PER
+ma chere!
+, 18254, 18264, ORG
+crains, 18267, 18273, PER
+J, 18437, 18438, ORG
+I, 18440, 18441, MISC
+Die leidenschaftliche Liebe, 18563, 18590, MISC
+“obstacle, 18670, 18679, MISC
+Anlaß, 18686, 18691, MISC
+Saint-Preux, 18798, 18809, LOC
+englischen, 18821, 18831, MISC
+Paris, 18908, 18913, LOC
+Hause d'Etange Verhängnisvolles, 18952, 18984, MISC
+Kummer, 19068, 19074, LOC
+lädt, 19259, 19264, LOC
+Ratschluß
+, 19423, 19433, PER
+Monsieur de Wolmar, 19461, 19479, PER
+erwähnten, 19569, 19579, ORG
+Saint-
+Prcux, 19589, 19601, PER
+J, III, 19608, 19614, MISC
+Kirche, 19963, 19969, ORG
+aufblähenden, 20069, 20082, ORG
+soudaine ..., 20158, 20170, PER
+temblante et, 20171, 20183, MISC
+pureté ..., 20218, 20229, MISC
+dignité ... sainteté, 20230, 20252, MISC
+Liée au sort d'un époux, 20553, 20578, MISC
+j'entre dans une nouvelle carriere qui ne doit finir, 20646, 20698, MISC
+qu'à la
+mort, 20699, 20712, MISC
+à l'Eglise, 20728, 20739, MISC
+n'avois jamais
+éprouvéc, 20790, 20815, PER
+vint saisir mon ame dans ce lieu simple et
+auguste, 20843, 20893, PER
+soudaine me
+, 20957, 20969, MISC
+frissonner, 20976, 20986, PER
+temblante, 20988, 20997, PER
+j'eus peine, 21035, 21046, PER
+pied de la chaire, 21070, 21087, PER
+le profond silence, 21273, 21291, LOC
+leur
+maintien, 21309, 21322, MISC
+le cortege de tous me parens, 21345, 21373, ORG
+l'imposant aspect de
+, 21375, 21396, ORG
+donnoit à, 21424, 21434, PER
+ct qui, 21524, 21530, ORG
+La pureté, 21707, 21717, MISC
+la dignité, 21719, 21730, MISC
+la sainteté
+du mariage, 21732, 21755, MISC
+si vivement, 21757, 21768, LOC
+dans les paroles de l'Ecriture, 21779, 21809, MISC
+ses chastes et
+20 sublimes, 21811, 21837, MISC
+si importans au bonheur, 21846, 21869, ORG
+à l'ordre, 21871, 21881, LOC
+a la paix, 21883, 21892, PER
+à la durée du genre
+humain, 21894, 21922, LOC
+si doux, 21924, 21931, LOC
+remplir pour eux-mēmes, 21935, 21958, ORG
+tout cela me fit une telle impression
+, 21960, 21998, ORG
+crus sentir, 22005, 22016, PER
+révolution, 22037, 22048, MISC
+corriger, 22087, 22095, LOC
+disois-je en moi-même, 22223, 22245, ORG
+lit
+25 maintenant au fond de mon cœur, 22247, 22284, ORG
+il compare ma volonté, 22286, 22308, MISC
+le Ciel et la terre sont témoins de l'engagement sacré, 22346, 22402, MISC
+ils
+le seront encore de ma fidélité à, 22417, 22457, PER
+Julie de Wolmar n'est plus votre ancienne Julie ..., 22476, 22527, PER
+J, 22529, 22530, MISC
+III, 22532, 22535, MISC
+Julies Handeln
+und Wollen, 22619, 22644, PER
+Julie, 22866, 22871, PER
+darüber, 22890, 22898, MISC
+Sündenfall, 22934, 22945, MISC
+über, 23019, 23024, PER
+ma mere, 23130, 23137, PER
+j'osai
+l'ouvrir, 23139, 23154, PER
+Ce fut là mon crime, 23156, 23176, MISC
+et tout le reste fut forcé.
+, 23178, 23207, MISC
+J, III, 23305, 23311, MISC
+Julies Hochzeitsbekenntnis, 23343, 23369, PER
+J, 23491, 23492, PER
+zurückblickend, 23628, 23643, ORG
+unmöglichen Liebe
+, 23705, 23724, MISC
+Saint-Preux, 23840, 23851, PER
+Intensität, 23955, 23966, MISC
+Julies, 24056, 24062, MISC
+Schweizer Berge, 24440, 24455, LOC
+Genfer Bürger, 24465, 24479, MISC
+Jacques Rousseau, 24510, 24526, PER
+erträumt, 24543, 24552, PER
+Unglück
+, 24669, 24678, MISC
+Rousseau, 24766, 24774, PER
+Paris, 24978, 24983, LOC
+Alpen, 25106, 25111, LOC
+Rousseaus, 25147, 25156, LOC
+nordfranzösischen Einsiedelei, 25181, 25211, ORG
+Rousseau, 25347, 25355, PER
+Korrespondenz von
+, 25437, 25455, MISC
+erzählten Geschichte, 25591, 25612, ORG
+nämlich, 25623, 25631, MISC
+kämpft, 25810, 25817, MISC
+Saint-Preux bildverloren
+, 25826, 25851, ORG
+bestätigt, 25851, 25861, ORG
+geführten, 26053, 26063, ORG
+Clarens, 26138, 26145, LOC
+Genfer Sees, 26158, 26169, LOC
+J, 26292, 26293, ORG
+III, 26295, 26298, MISC
+VI, 26304, 26306, MISC
+Mustergültigkeit, 26325, 26342, MISC
+Contrat social ent-
+, 26596, 26616, ORG
+Köhler, 26628, 26635, MISC
+vertrauensseliger, 26785, 26802, LOC
+Überwachung, 26832, 26844, MISC
+gegründete, 26872, 26883, ORG
+totalitärer
+, 26914, 26927, MISC
+augenfällig, 26956, 26968, MISC
+Kosellek, 26991, 26999, MISC
+Köhler, 27030, 27037, MISC
+Dirscherl, 27051, 27060, PER
+Graap, 27072, 27077, PER
+Französischen Revolution, 27116, 27141, MISC
+Contra social, 27192, 27205, ORG
+Charta der Menschenrechte, 27263, 27288, MISC
+zweibändigen, 27361, 27374, MISC
+Panegyrismus De J.-J. Rousseau, 27375, 27405, PER
+beflügelt, 27475, 27485, ORG
+Voltaire, 27533, 27541, PER
+über, 27609, 27614, PER
+Emile de mēme, 27776, 27790, PER
+le Contrat social ... un ouvrage obscur, 27852, 27891, MISC
+plein de contradictions, 27906, 27929, PER
+II, 28073, 28075, ORG
+Galle, 28093, 28098, PER
+Saint-Preux, 28115, 28126, LOC
+Gefühl, 28229, 28236, LOC
+Pariser Parlament, 28385, 28402, ORG
+Contrat social, 28459, 28473, ORG
+Genfer Republik, 28482, 28497, LOC
+“téméraires, 28535, 28548, MISC
+Euvres complètes III, 28645, 28666, MISC
+XVI, 28668, 28671, MISC
+aufrührerischen, 28729, 28745, MISC
+“Préface, 28783, 28792, MISC
+erzählstrategisch, 28795, 28813, ORG
+Saint-Preux, 28873, 28884, ORG
+Hause Wolmar, 28905, 28917, MISC
+führen, 28947, 28954, MISC
+Julies Garten, 28975, 28988, LOC
+J, 29019, 29020, MISC
+IV, 29022, 29024, MISC
+quoique tout proche de la maison est tellement caché par l'allée
+, 29163, 29230, ORG
+qui l'en, 29239, 29247, LOC
+qu'on, 29256, 29261, LOC
+fus frappé d'une, 29464, 29481, LOC
+que d'obscurs ombrages, 29515, 29537, MISC
+une verdure, 29539, 29550, ORG
+et vive, 29559, 29566, ORG
+éparses
+de tous, 29579, 29595, PER
+un gazouillement d'eau courante et le chant de mille oiseaux
+, 29604, 29665, MISC
+qu'à mes sens, 29710, 29724, MISC
+mais en même tems
+, 29726, 29745, MISC
+crus voir le lieu le plus sauvage, 29748, 29781, PER
+et il me sembloit
+, 29815, 29833, MISC
+le premier mortel qui jamais eut, 29844, 29876, MISC
+saisi, 29913, 29918, MISC
+transporté d'un spectacle si peu prévu, 29920, 29960, MISC
+mais agreste et abandonné, 30032, 30058, MISC
+l'eau est venue, 30124, 30139, ORG
+la nature
+seule a fait tout le reste et vous-même n'eussiez jamais, 30160, 30227, ORG
+qu'elle, 30252, 30259, MISC
+dit-elle, 30274, 30282, MISC
+que la nature a tout fait, 30284, 30309, MISC
+mais sous ma direction, 30311, 30333, MISC
+et il
+n'y a rien là que je n'aye ordonné, 30335, 30377, MISC
+J, 30379, 30380, ORG
+IV, 30382, 30384, MISC
+Paradiesgärtlein
+, 30464, 30482, MISC
+Frühen, 30521, 30528, ORG
+Mariens, 30574, 30581, LOC
+J, 30795, 30796, MISC
+IV, 30798, 30800, MISC
+Ursprungs, 30874, 30883, MISC
+zuhört, 31106, 31113, PER
+Julie, 31123, 31128, PER
+mon ami, 31160, 31167, MISC
+me dit-elle d'une voix émue, 31169, 31197, MISC
+jours ainsi passés tiennent du bon-
+heur de l'autre vie, 31203, 31259, ORG
+et ce n'est pas sans raison qu'en y pensant, 31261, 31304, MISC
+j'ai donné d'avance
+, 31305, 31326, PER
+à ce, 31326, 31331, MISC
+J, 31356, 31357, MISC
+IV, 31359, 31361, MISC
+erfüllt, 31388, 31396, MISC
+Saint-Preux, 31544, 31555, LOC
+englischen, 31874, 31884, MISC
+agréable azile, 31986, 32001, PER
+J, 32004, 32005, MISC
+IV, 32007, 32009, MISC
+Wünschen, 32032, 32041, MISC
+gewährt
+, 32062, 32071, ORG
+Ansprüchen, 32079, 32090, MISC
+Les Rêveries, 32184, 32197, LOC
+berühmten, 32238, 32248, ORG
+Rêverie, 32253, 32261, MISC
+contemplatifs solitaires, 32313, 32337, PER
+gewährt, 32372, 32380, MISC
+abgründigen, 32584, 32596, MISC
+Verführungsgewalt, 32597, 32615, MISC
+unvermittelter, 32726, 32740, MISC
+Tristan und Isolde, 32811, 32829, MISC
+z
+, 32831, 32833, MISC
+gemäßen Tugend der Liebenden, 32863, 32892, MISC
+Saint-Preux
+, 32899, 32911, MISC
+Milord
+Edouard, 32978, 32992, PER
+säkularisierten, 33037, 33053, MISC
+Genfer See, 33127, 33137, LOC
+J, 33144, 33145, LOC
+Morgendämmerung, 33241, 33257, MISC
+See, 33330, 33333, LOC
+ausgerüstet, 33335, 33347, MISC
+Vorräten, 33352, 33361, MISC
+fürs Abendessen, 33367, 33383, MISC
+Saint-Preux bclehrt, 33433, 33452, ORG
+“superbe horizon', 33489, 33506, MISC
+J, 33508, 33509, MISC
+IV, 33511, 33513, MISC
+Einmündung, 33529, 33540, MISC
+J.
+IV, 33643, 33648, PER
+gefährden, 33659, 33669, ORG
+J, 33727, 33728, MISC
+IV, 33730, 33732, MISC
+Vaud bil-
+, 33808, 33818, LOC
+gegenüberliegenden, 33842, 33861, ORG
+Chablais, 33872, 33880, LOC
+erwähnten, 33988, 33998, ORG
+Rêverie, 34002, 34010, MISC
+naht, 34026, 34030, PER
+Julie, 34074, 34079, PER
+J, 34139, 34140, MISC
+IV, 34142, 34144, MISC
+Mühe, 34160, 34165, MISC
+gegenüberliegenden, 34202, 34221, MISC
+Saint-Preux, 34238, 34249, LOC
+Haus Wolmar, 34280, 34291, LOC
+Julie, 34384, 34389, PER
+führte, 34436, 34443, MISC
+l'habitoit jadis
+avec moi, 34517, 34542, PER
+fut le motif sccret de ma promenade, 34544, 34579, LOC
+d'une passion si constante et si malheureuse, 34640, 34684, MISC
+mais plein de ces sortes de
+, 34747, 34775, MISC
+qu'aux ames, 34802, 34813, LOC
+Un torent formé par la fonte, 34860, 34889, MISC
+neiges rouloit a vingt pas de nous une eau
+bourbeusc, 34894, 34946, ORG
+ct charrioit avec bruit du limon, 34948, 34980, ORG
+du sable et des pieres, 34982, 35004, ORG
+Alpes qu'on nomme les glacicres, 35113, 35144, ORG
+parce que d'énormes sommets de
+, 35146, 35178, ORG
+Sigle R und Seitenzahlen, 35184, 35208, LOC
+Jean-lacques
+Rousseau, 35261, 35282, PER
+Les Réveries u promeneur, 35284, 35309, LOC
+ders, 35324, 35328, MISC
+uures completes, 35332, 35347, ORG
+hrsg.
+v., 35349, 35357, ORG
+Bernard Gagnebin
+Marcel Raymond, 35358, 35389, PER
+Bd. I, 35391, 35396, PER
+Paris, 35398, 35403, LOC
+Pléiade, 35410, 35418, MISC
+le petit terrain où nous, 35583, 35608, MISC
+riant et champêtre, 35651, 35670, MISC
+ruisseaux, 35681, 35690, PER
+à travers
+les rochers, 35702, 35724, ORG
+et rouloient sur la verdure en filets de cristal, 35726, 35774, MISC
+arbres fruitiers
+, 35785, 35802, PER
+sur les notres, 35838, 35852, MISC
+la terre humide et fraiche, 35854, 35880, MISC
+d'herbe et de fleurs, 35897, 35917, LOC
+il sembloit que ce lieu désert dut être l'azile de
+deux amans échappés seuls au bouleversement de la nature, 35924, 36035, MISC
+J, 36037, 36038, MISC
+IV, 36040, 36042, MISC
+“, 36087, 36088, MISC
+J, 36132, 36133, MISC
+IV, 36135, 36137, MISC
+chaine de roches inaccessibles, 36186, 36216, PER
+J, 36388, 36389, MISC
+IV, 36391, 36393, MISC
+Julies, 36404, 36410, MISC
+Saint-Preux einschricb, 36452, 36474, ORG
+J, 36539, 36540, ORG
+IV, 36542, 36544, MISC
+forttrug, 36606, 36614, PER
+“, 36624, 36625, MISC
+Rainer Maria Rilke, 36665, 36683, PER
+Körper ste-
+hen, 36803, 36819, LOC
+Herz der Geliebten berühren, 36860, 36888, MISC
+Anwesens, 36930, 36938, LOC
+Saint-Preux, 36975, 36986, LOC
+Identität
+, 37046, 37057, MISC
+ungetrübten, 37097, 37109, ORG
+Erinnerungsbrief, 37264, 37280, MISC
+J, 37373, 37374, ORG
+III, 37376, 37379, MISC
+körperliche, 37421, 37433, MISC
+Milord Edouard, 37585, 37599, PER
+j'allois continuer, 37762, 37780, PER
+mais Julie, 37782, 37792, PER
+qui me, 37794, 37800, PER
+du bord, 37818, 37825, PER
+la serra sans mot dire, 37871, 37893, LOC
+puis tout à coup
+, 37960, 37978, MISC
+la vue et me tirant par le bras, 37990, 38021, MISC
+allons-nous en, 38023, 38037, ORG
+mon ami, 38039, 38046, ORG
+me dit-elle
+d'une voix émue, 38048, 38076, MISC
+l'air de ce lieu n'est pas bon pour moi, 38078, 38117, PER
+mais sans lui répondre, 38154, 38177, MISC
+et je quittai pour jamais ce triste réduit, 38179, 38222, MISC
+comme
+j'aurois quitté Julie elle-même, 38224, 38263, MISC
+J, 38265, 38266, ORG
+IV, 38268, 38270, MISC
+Walburga Hülk
+, 38515, 38530, MISC
+torens de larmes, 38531, 38547, MISC
+J, 38551, 38552, MISC
+VI, 38554, 38556, MISC
+Saint-
+Preux, 38605, 38617, PER
+Julie, 38657, 38662, PER
+Verlorene, 38701, 38710, PER
+perdue, 38712, 38718, PER
+à jamais pour moi', 38719, 38738, MISC
+J, 38740, 38741, MISC
+VI, 38743, 38745, MISC
+Seufzer, 38901, 38908, PER
+cines Tages, 39051, 39062, PER
+Gästen, 39093, 39100, MISC
+unterkühlt, 39239, 39250, MISC
+Monsieur de Wolmar, 39362, 39380, MISC
+festhält, 39464, 39473, PER
+mais la mcre ... le saisissement, 39501, 39533, MISC
+la chute, 39535, 39543, ORG
+l'état où elle étoit
+, 39545, 39569, MISC
+sa vivacité, 39625, 39637, MISC
+vois qu'elle ne croit pas en revenir, 39668, 39704, PER
+elle n'en reviendra pas, 39711, 39734, MISC
+J, 39779, 39780, MISC
+VI, 39782, 39784, MISC
+Sohnes, 39891, 39897, MISC
+jadis si répété', 39922, 39941, MISC
+J, 39943, 39944, MISC
+VI, 39946, 39948, MISC
+“, 40014, 40015, MISC
+J, 40051, 40052, MISC
+VI, 40054, 40056, MISC
+Atemzüge, 40101, 40110, MISC
+lAdieu, 40178, 40184, MISC
+mon doux, 40193, 40201, PER
+!
+, 40216, 40218, MISC
+J'en dis trop, 40258, 40271, ORG
+peut-être, 40273, 40283, ORG
+en ce moment où le cœur ne déguise plus rien ...
+, 40285, 40336, MISC
+suis déja, 40429, 40439, PER
+dans les bras de la mort, 40440, 40464, MISC
+Quand tu veras cette Lettre, 40466, 40493, MISC
+les vers
+5rongeront le visage de ton amante, 40495, 40538, MISC
+et son cœur où tu ne seras, 40540, 40567, MISC
+sans toi quelle félicité, 40613, 40639, MISC
+goûterois-je, 40640, 40653, ORG
+vais t'attendre, 40684, 40699, PER
+La vertu qui nous sépara sur la terre, 40701, 40739, MISC
+éternel, 40768, 40776, LOC
+J, 40933, 40934, LOC
+Vl, 40936, 40938, MISC
+Monsicur de Wolmar, 40987, 41005, LOC
+Julies, 41011, 41017, PER
+Erzieher
+, 41099, 41108, MISC
+Wolmar, 41134, 41140, PER
+Julie Gewissensqualen
+, 41159, 41181, PER
+Christentum, 41201, 41212, MISC
+über, 41244, 41249, PER
+Liebe
+, 41345, 41351, MISC
+über, 41355, 41360, PER
+J.
+
+, 41514, 41518, PER
+ean-)acques Rousseau, 41519, 41539, PER
+Märtyrerin, 41795, 41806, MISC
+“sensibilité, 41915, 41928, MISC
+Baasner, 41931, 41938, MISC
+begründete, 41973, 41984, ORG
+natürliche, 41997, 42008, ORG
+“Liebe, 42247, 42253, MISC
+Luhmann, 42269, 42276, PER
+herauslöst, 42311, 42322, PER
+Intimität, 42396, 42406, MISC
+dürstete, 42538, 42547, MISC
+Tränen, 42553, 42560, MISC
+Lektüre, 42574, 42582, MISC
+“, 42661, 42662, MISC
+Barthes, 42693, 42700, MISC
+Vincent-Buffault, 42719, 42735, MISC
+Authentizität, 42818, 42832, MISC
+“sensibilité'
+, 42837, 42852, MISC
+verbürgen, 42855, 42865, ORG
+W. H.], 42901, 42907, PER
+fondez en larmes si vous
+connaissez mon cœur et si le votre est sensible encore'', 42909, 42990, PER
+J, 42992, 42993, PER
+III, 42995, 42998, MISC
+unglückselig, 43183, 43196, ORG
+Verläßlichkeit, 43449, 43464, MISC
+Körpersprache, 43478, 43492, MISC
+Arbitrarität, 43511, 43524, MISC
+Bürgschaft, 43567, 43578, MISC
+Eigentümlichkeit, 43583, 43600, MISC
+Pierre Choderlos de Laclos, 43728, 43754, PER
+Tränen, 43857, 43864, MISC
+Authentizität, 43909, 43923, MISC
+Eigentümlichkeit, 43925, 43942, MISC
+“sensibilité, 43944, 43957, MISC
+Nouvelle Héloise, 44023, 44040, MISC
+Briefromans
+, 44066, 44078, ORG
+Dispositive, 44156, 44167, MISC
+Lektüre, 44384, 44392, MISC
+Liebe nämlich, 44431, 44445, MISC
+Nouvelle Héloise, 44515, 44532, MISC
+erzählt von Liebe, 44585, 44603, MISC
+de
+Briefromans, 44808, 44822, PER
+“roman épistolaire', 44850, 44870, MISC
+“, 44885, 44886, MISC
+deI
+, 44959, 44963, MISC
+Korrespondenz aus der Eigenperspcktive, 44963, 45001, MISC
+“, 45011, 45012, MISC
+Empfänger, 45056, 45066, MISC
+destinataire'', 45069, 45083, PER
+PrivatkorrespondenZ
+während, 45264, 45292, MISC
+Nouvelle Héloise
+, 45567, 45585, MISC
+Liaisons dangereuses, 45690, 45710, LOC
+monophonischen/-logischen Form, 45769, 45799, ORG
+findel
+, 45814, 45821, PER
+Guilleragues, 45877, 45889, PER
+portugiesischen, 45926, 45941, MISC
+ant
+wortet, 45980, 45990, ORG
+Goethes Leiden des jungen Werthers, 46005, 46039, MISC
+Abaelard, 46126, 46134, PER
+Nouvelle Héloise, 46159, 46176, PER
+Briefromans, 46220, 46231, PER
+Laclos, 46511, 46517, PER
+Picard, 46555, 46561, PER
+Comille, 46569, 46576, MISC
+Nouvelle Héloise, 46622, 46639, PER
+zufälliges, 46666, 46677, MISC
+Unmittelbarkeit
+, 47013, 47029, MISC
+Eigentümlichkeit, 47033, 47050, MISC
+vernünftigen, 47191, 47204, MISC
+Zeit, 47386, 47390, MISC
+Nouvelle Héloise, 47399, 47416, MISC
+Préface, 47422, 47430, MISC
+Préface de la Nouvelle Heloise, 47472, 47503, MISC
+ou Entretien sur les
+romans, 47505, 47532, MISC
+Rousscau, 47560, 47568, PER
+ean-)acques, 47679, 47690, MISC
+Länge, 47704, 47710, MISC
+Komplexität, 47715, 47727, LOC
+J, 47780, 47781, MISC
+“Préface, 47822, 47831, MISC
+“Préfaces'', 47878, 47890, MISC
+“Prologues, 47896, 47906, PER
+Schlüsselstellung, 47929, 47947, MISC
+Rousseaus Roman, 48024, 48039, LOC
+Marivaux, 48201, 48209, LOC
+Laclos, 48253, 48259, LOC
+nämlich
+, 48292, 48301, MISC
+“rédacteur, 48315, 48326, MISC
+diskreterweise
+, 48365, 48380, ORG
+Authentizität, 48564, 48578, MISC
+Rousseau, 48613, 48621, PER
+nämlich läßt, 48665, 48679, MISC
+verändert, 48775, 48785, MISC
+Protago-, 48856, 48864, MISC
+Zeit, 49034, 49038, MISC
+“siècle corompu, 49058, 49074, MISC
+Nouvelle Héloise, 49085, 49102, MISC
+Spiegel
+, 49109, 49117, ORG
+widersprüchlich, 49169, 49185, ORG
+skandalösen Stoffes, 49301, 49321, LOC
+Libertins, 49327, 49336, LOC
+Geistes, 49341, 49348, LOC
+natürlich, 49400, 49410, ORG
+Nouvelle Héloise, 49474, 49491, MISC
+kokette
+Rousseau, 49523, 49539, PER
+“, 49574, 49575, MISC
+“Mängel, 49592, 49600, MISC
+gänzlich imaginären Liebesdelirium, 49719, 49755, MISC
+Préface, 49787, 49795, MISC
+Maskerade, 49812, 49821, MISC
+können, 49832, 49839, MISC
+spectacles dans les grandes villes, 49855, 49889, ORG
+aux peuples, 49905, 49916, LOC
+J'ai vû les mœurs de mon tems, 49930, 49960, MISC
+et j'ai publié ces lettres, 49962, 49989, MISC
+dusse les jetter au feu!
+, 50031, 50056, MISC
+ne porte ici que le titre d'Editeur, 50067, 50102, MISC
+j'ai travaillé, 50104, 50119, MISC
+pas, 50165, 50168, MISC
+Ai-je fait le tout, 50170, 50188, MISC
+et la correspondance entiere est-elle une
+fiction, 50190, 50239, MISC
+que vous importe, 50256, 50272, MISC
+à la vérité des faits, 50325, 50349, PER
+d'Etange ni de sa fille, 50459, 50482, PER
+J'avertis encore que la topographie est grossierement, 50493, 50546, MISC
+Que chacun
+pense comme il lui plaira, 50564, 50600, MISC
+la matiere allarmera les gens severes, 50732, 50769, MISC
+aux libertins, 50909, 50922, LOC
+aux philosophes, 50924, 50939, LOC
+et scandaliser les honnêtes femmes, 50978, 51013, LOC
+A qui plaira-t-il donc, 51015, 51037, MISC
+mais a coup sûr, 51063, 51079, MISC
+à personne, 51107, 51118, PER
+se resoudre à, 51135, 51149, MISC
+sur le stile emphatique et plat, 51218, 51249, MISC
+sur les pensées communes
+, 51251, 51277, LOC
+rendues en termes, 51280, 51297, LOC
+ne
+sont pas des Francois, 51361, 51385, ORG
+beaux-esprits, 51391, 51404, LOC
+acadćmiciens, 51410, 51423, LOC
+provinciaux, 51451, 51462, ORG
+étrangers, 51468, 51478, ORG
+de jeunes gens, 51496, 51510, ORG
+enfans, 51524, 51530, ORG
+J, 51650, 51651, MISC
+natürliche, 51777, 51788, ORG
+unlösbaren, 51812, 51823, MISC
+Länge, 52028, 52034, MISC
+Verfügbarkeit, 52095, 52109, MISC
+Spaziergängen, 52137, 52151, MISC
+Kuß, 52165, 52168, MISC
+Fehlgeburt, 52178, 52188, ORG
+Lektüre, 52285, 52293, MISC
+Bürgschaft, 52304, 52315, MISC
+Gefühlsstärke, 52320, 52335, ORG
+Natürlichkeit, 52362, 52376, MISC
+Leiden an der Wirklichkeit, 52435, 52461, MISC
+gotische, 52488, 52496, MISC
+Paradiesgärtlein
+, 52705, 52723, MISC
+Gletscherströme, 52754, 52770, MISC
+Sehnens, 52800, 52807, LOC
+Mahnens, 52812, 52819, LOC
+Julie, 53003, 53008, PER
+Julies, 53014, 53020, PER
+Verklärung, 53029, 53040, MISC
+Rousseaus, 53045, 53054, PER
+Versöhnung, 53085, 53096, MISC
+entrückt, 53155, 53164, MISC
+Clarens, 53287, 53294, LOC
+Julies Seele, 53347, 53359, PER
+J, 53400, 53401, MISC
+I.
+, 53403, 53406, MISC
+“ce divin accord de la vertu, 53437, 53465, MISC
+J, 53497, 53498, MISC
+l, 53500, 53501, PER
+“pays des chimeres, 53527, 53545, MISC
+“, 53548, 53549, MISC
+habité, 53583, 53590, MISC
+J, 53592, 53593, MISC
+Julie, 53612, 53617, MISC
+Saint-Preux, 53647, 53658, LOC
+eingelöste, 53697, 53708, MISC
+“, 53721, 53722, MISC
+Rousseau, 53778, 53786, PER
+verstärkt, 53891, 53901, PER
+nämlich, 53966, 53974, MISC
+Wandem, 54095, 54101, LOC
+Les Rēveries du promeneur solitaire, 54122, 54158, LOC
+Rousseaus
+, 54182, 54192, PER
+Aufklärung, 54324, 54335, MISC
+Ursprüngen, 54435, 54446, MISC
+Sprache, 54564, 54571, MISC
+Besitzes, 54577, 54585, MISC
+inégalité, 54655, 54666, MISC
+Académie de Dijon, 54718, 54736, ORG
+parmi les hommes, 54816, 54832, ORG
+Rousseaus, 54880, 54889, LOC
+sciences et des arts a contribué a épurer les mœurs, 54947, 55000, LOC
+parmi les
+hommes, 55242, 55258, ORG
+Le premier qui ayant enclos un terrain, 55436, 55474, MISC
+s'avisa de dire, 55476, 55491, ORG
+ceci est à moi, 55493, 55508, MISC
+et trouva
+, 55510, 55520, ORG
+gens assés simples pour le croire, 55524, 55558, ORG
+fut le vrai, 55560, 55571, ORG
+de gueres, 55621, 55630, ORG
+de meurtres, 55632, 55643, ORG
+que de miséres et d'horreurs, 55645, 55674, LOC
+n'eût point
+, 55676, 55689, LOC
+au Genre-humain celui qui arrachant les pieux ou comblant le fossé, 55699, 55766, MISC
+eût
+crié à ses semblables, 55768, 55796, MISC
+Gardez-vous d'écouter, 55798, 55820, MISC
+Vous êtes perdus, 55836, 55853, PER
+si
+vous oubliez que les fruits sont à tous, 55855, 55898, PER
+D, 55935, 55936, LOC
+begründet, 55966, 55976, ORG
+Herrschaft der Reichen über, 55981, 56009, MISC
+Aren, 56014, 56018, LOC
+Männer, 56050, 56057, MISC
+Familie gegründet, 56151, 56169, MISC
+Vargas, 56258, 56264, MISC
+Nouvelle Heloise, 56323, 56339, PER
+Société, 56387, 56396, MISC
+qui jusqu'ici n'en
+, 56499, 56518, MISC
+Sigle D, 56524, 56531, LOC
+Seitenzahlen, 56536, 56548, LOC
+Jean-Jacques
+Rousseau, 56601, 56622, PER
+parmi les hommes, 56664, 56680, MISC
+ders, 56686, 56690, MISC
+Euwres complètes, 56693, 56710, PER
+hrsg.
+v.
+Bernard Gagnebin, 56712, 56737, ORG
+Marcel Raymond, 56740, 56754, PER
+Bd. III, 56756, 56763, PER
+Paris, 56765, 56770, LOC
+Pléiade, 56777, 56785, MISC
+tandis que l'homme alloit chercher la subsistance
+, 56919, 56969, LOC
+D, 56980, 56981, LOC
+II, 56983, 56985, MISC
+Rousseau, 57118, 57126, PER
+läßt, 57149, 57154, MISC
+Starobinski, 57175, 57186, PER
+zurückgchen, 57370, 57382, ORG
+unfähig, 57606, 57614, MISC
+unfähig, 57658, 57666, MISC
+Nouvelle Héloise verständlich, 58047, 58078, MISC
+entblößen, 58143, 58153, MISC
+Körpers, 58173, 58181, MISC
+Tränen, 58183, 58190, MISC
+Düfte, 58192, 58198, ORG
+Eigentümlichkeit, 58276, 58293, MISC
+“sensibilité, 58298, 58311, MISC
+Mediums, 58419, 58426, MISC
+D, 58788, 58789, MISC
+II, 58791, 58793, MISC
+Julie, 58819, 58824, PER
+Julies Leiche, 58971, 58984, PER
+Clarens Lügen
+, 59055, 59070, PER
+Jean Starobinski, 59164, 59180, PER
+Julie mourra heureuse, 59343, 59364, PER
+délivrée de la nécessité d'agir, 59366, 59401, PER
+Starobinski, 59514, 59525, PER
+Rousseau, 59636, 59644, PER
+voluminösen, 59704, 59716, MISC
+religiöse, 59859, 59869, PER
+Augustinus, 59889, 59899, PER
+Confessiones, 59901, 59913, PER
+Glaubensbekenntnis, 60021, 60039, PER
+Möglichkeiten, 60086, 60100, MISC
+Tücken, 60105, 60112, MISC
+mitreflektiert, 60135, 60149, PER
+Assmann, 60151, 60158, PER
+Nouvelle Héloise, 60256, 60273, PER
+Prozeß des eigenen Lebens, 60376, 60401, LOC
+erzählt, 60440, 60448, MISC
+geführt, 60478, 60486, MISC
+“Etre éternel'', 60620, 60636, MISC
+C, 60638, 60639, MISC
+I, 60641, 60642, MISC
+Büchem, 60710, 60717, MISC
+Rousseaus, 60758, 60767, LOC
+Madame de Warens, 60992, 61008, PER
+verändert, 61241, 61251, ORG
+Rëveries du
+, 61358, 61371, ORG
+ursprünglichen, 61500, 61515, ORG
+gequält, 61583, 61591, LOC
+ils
+, 61781, 61785, PER
+ma vie, 61808, 61814, PER
+Rousseau juge de Jean-Jacques, 61872, 61901, PER
+Euvres complètes I, 61908, 61927, MISC
+Confessions de J.-J. Rousseau, 61939, 61968, LOC
+événements de sa vie, 61995, 62017, LOC
+et
+de ses sentiments, 62019, 62039, LOC
+Les
+, 62107, 62111, LOC
+Sigle C, 62115, 62122, LOC
+Seitenzahlen, 62127, 62139, LOC
+Jean-Jacques Rousseau, 62180, 62201, PER
+Les
+Confessions, 62203, 62218, ORG
+ders, 62224, 62228, MISC
+Eures complètes, 62231, 62247, MISC
+Bernard Gagnebin, 62258, 62274, PER
+Marcel Raymond, 62277, 62291, PER
+Bd. l, 62293, 62298, PER
+Paris, 62300, 62305, LOC
+Walburga Hülk
+Confessions, 62326, 62352, LOC
+Jacques Voisine, 62363, 62378, PER
+anéantir un ouvrage unique et utile, 62862, 62898, MISC
+lcquel pcut servir de prémiere, 62900, 62931, PER
+qui certainemcnt est encore à commencer, 62980, 63020, LOC
+sûr de mon
+, 63085, 63097, MISC
+qui n'ait pas été, 63108, 63127, ORG
+défiguré par mes ennemis, 63128, 63154, MISC
+cessez de l'être envers ma cendre, 63218, 63252, PER
+et ne
+, 63254, 63260, MISC
+portez pas votre cruelle injustice jusqu'au tems ou ni vous ni moi ne vivrons plus, 63263, 63345, MISC
+Si tant est
+que le mal qui s'addresse à, 63502, 63542, MISC
+ou voulu faire, 63576, 63590, MISC
+porter le nom de vengeance, 63599, 63625, PER
+C, 63627, 63628, MISC
+le seul portrait d'homme'', 63729, 63755, MISC
+Autoportraits, 63795, 63808, PER
+gegenüber, 63854, 63864, MISC
+Augustinus, 64087, 64097, PER
+unterläuft, 64384, 64395, MISC
+Prätext, 64416, 64424, ORG
+Confessiones, 64430, 64442, ORG
+Vorrede, 64541, 64548, ORG
+Originalität, 64551, 64564, MISC
+umwälzen, 64700, 64709, ORG
+Bücher, 64789, 64796, MISC
+Nach-Erzählung, 64856, 64871, MISC
+Rousseaus, 64939, 64948, PER
+vorgestcllt, 65105, 65116, PER
+Pl, 65229, 65231, LOC
+Paris, 65233, 65238, LOC
+Chambre des Députés, 65240, 65261, MISC
+Persius cntlehntes, 65296, 65314, PER
+cute, 65485, 65489, LOC
+Enthäutung, 65531, 65542, MISC
+Selbstentblößung, 65667, 65684, MISC
+Bücher, 65983, 65990, MISC
+Pl, 65992, 65994, MISC
+Gl, 65996, 65998, MISC
+Hs, 66000, 66002, LOC
+Genf, 66004, 66008, LOC
+N, 66020, 66021, LOC
+Hs, 66023, 66025, LOC
+Paragraphen, 66111, 66122, LOC
+ungekürzte 1, 66290, 66303, ORG
+et dont l'exécution n'aura
+point d'imitateur, 66424, 66469, MISC
+à mes semblables un homme dans toute la
+vérité de la nature, 66487, 66549, MISC
+et cet homme, 66551, 66563, MISC
+ce sera moi, 66565, 66576, ORG
+connois les hommes, 66614, 66632, PER
+aucun de ceux que j'ai vus, 66658, 66684, PER
+j'ose croire, 66686, 66698, PER
+n'être fait comme aucun de ceux qui
+cxistent, 66699, 66744, ORG
+je ne vaux pas mieux, 66749, 66769, ORG
+au moins, 66771, 66779, ORG
+suis autre, 66783, 66793, PER
+c'est ce dont on ne peut juger, 66875, 66905, ORG
+Que la trompette du jugement demier, 66931, 66966, MISC
+quand elle voudra, 66973, 66990, PER
+viendrai ce
+, 66995, 67007, PER
+à la main me présenter devant le souverain juge, 67016, 67065, MISC
+dirai hautement, 67070, 67085, PER
+voila ce
+que j'ai fait, 67087, 67109, MISC
+ce que j'ai pensé, 67111, 67129, MISC
+ce que je fus, 67131, 67144, MISC
+J'ai dit le bien et le mal avec la même
+, 67146, 67187, PER
+rien tu de mauvais, 67206, 67224, MISC
+rien ajouté de bon, 67226, 67245, MISC
+et s'il, 67247, 67254, LOC
+indifférent, 67296, 67308, ORG
+ce n'a jamais, 67310, 67323, ORG
+que pour remplir un
+vide, 67330, 67354, ORG
+j'ai pu supposer, 67396, 67412, PER
+vrai ce que, 67413, 67424, PER
+savois
+, 67428, 67435, PER
+jamais ce que, 67455, 67468, PER
+savois être faux, 67472, 67489, PER
+Je me suis montré tel que je fus, 67491, 67524, MISC
+bon, 67565, 67568, MISC
+généreux, 67570, 67580, ORG
+sublime, 67582, 67589, ORG
+l'ai, 67600, 67604, MISC
+j'ai
+, 67612, 67617, PER
+dévoilé mon, 67617, 67630, MISC
+toi-même, 67661, 67670, MISC
+qu'ils rougissent de mes miséres, 67822, 67855, PER
+Que chacun
+, 67857, 67868, MISC
+d'eux découvre à son tour son cœur aux pieds de ton trōne, 67871, 67931, PER
+C, 68034, 68035, MISC
+I, 68037, 68038, MISC
+Gerichtstag, 68048, 68059, MISC
+heraufbeschwört, 68079, 68095, LOC
+Jüngste Tag, 68105, 68117, MISC
+Jüngsten Gericht, 68154, 68171, LOC
+gehört, 68301, 68308, PER
+Hölderlin, 68485, 68495, ORG
+Barbarus hic ego sum quia non illis intellegor, 68659, 68705, MISC
+Fremder bin
+, 68707, 68719, MISC
+Link, 68777, 68781, PER
+verbürgten Mißverständnisses, 68834, 68864, MISC
+Identität, 68906, 68916, MISC
+Begründung
+, 69040, 69052, MISC
+Verteidigungsplädoyer, 69066, 69088, MISC
+Entblößungen, 69245, 69258, MISC
+Se circonscrire'', 69408, 69425, MISC
+R, 69427, 69428, MISC
+Rousseau, 69441, 69449, PER
+Rêveries, 69476, 69485, ORG
+R, 69548, 69549, MISC
+Confessions, 69561, 69572, LOC
+se circonscrire, 69644, 69659, MISC
+beschränken, 69684, 69696, ORG
+Eigentümlichkeit, 69821, 69838, MISC
+Gesellschaft der Anderen, 69885, 69909, ORG
+Nouvelle Héloise, 69979, 69996, MISC
+Rousseaus, 70284, 70293, PER
+Ile-de-St-Pierre, 70348, 70364, LOC
+Lac
+de Bienne, 70380, 70393, LOC
+Bieler See, 70395, 70405, LOC
+Tagträumerei, 70442, 70455, MISC
+Raymond, 70740, 70747, MISC
+aufgeblähte, 70781, 70793, MISC
+buchstäblich, 70813, 70826, ORG
+“sans relache, 70970, 70983, MISC
+“éteignoit, 70987, 70998, MISC
+sans prendre la peine de penser, 71001, 71032, MISC
+“, 71035, 71036, MISC
+“sans aucun concours actif, 71052, 71078, MISC
+“ne laissoit pas'', 71081, 71099, MISC
+“, 71101, 71102, MISC
+caché, 71323, 71329, MISC
+là le bruit, 71331, 71343, ORG
+la plongeoient dans une réverie delicieuse où la nuit me surprenoit
+, 71440, 71510, MISC
+sans que, 71519, 71527, PER
+son bruit
+
+
+, 71584, 71596, MISC
+continu mais renflé par intervalles, 71622, 71658, MISC
+que la rêverie, 71742, 71757, MISC
+sans prendre la peine de penser, 71840, 71871, MISC
+choses de ce monde dont la surface, 71960, 71994, PER
+m'offroit l'image, 72004, 72021, PER
+mais bientot, 72023, 72035, MISC
+s'effacoient dans l'uniformité du mouvement continu qui me
+bercoit, 72061, 72128, MISC
+et qui sans aucun concours, 72130, 72156, MISC
+là sans effort, 72289, 72304, MISC
+R, 72306, 72307, MISC
+Bekenntnisse, 72600, 72612, MISC
+Lejeune, 72734, 72741, MISC
+zunächst, 72826, 72835, ORG
+einzulösen, 72845, 72856, LOC
+Nouvelle Héloise, 72877, 72894, LOC
+d'Isaac Rousseau Citoyen et de Susanne Bernard
+Citoyenne, 72962, 73018, PER
+médiocre à, 73033, 73045, MISC
+à rien la portion de mon pere, 73097, 73127, MISC
+il n'avoit pour subsister que son métier
+d'horloger, 73129, 73181, ORG
+dans lequel il étoit, 73183, 73204, ORG
+à la vérité, 73206, 73220, LOC
+fort habile, 73222, 73233, LOC
+Ma mere, 73235, 73242, PER
+fille du Ministre
+, 73244, 73262, PER
+étoit plus riche, 73273, 73290, MISC
+elle avoit de la sagesse et de la beauté, 73292, 73333, MISC
+ce n'etoit pas sans
+, 73335, 73355, MISC
+l'avoit obtenue, 73374, 73389, PER
+dès l'âge de huit à, 73445, 73467, MISC
+près de la Cathédrale, 73557, 73580, PER
+W. H.], 73583, 73589, PER
+à dix, 73591, 73597, LOC
+La simpathie, 73636, 73648, PER
+ames affermit, 73663, 73676, PER
+qu'avoit produit l'habitude, 73700, 73727, PER
+nés tendres et sensibles, 73740, 73765, ORG
+n'at-
+tendoient que le moment de trouver dans un autre la même disposition, 73767, 73842, MISC
+et chacun d'eux jetta son cœur dans le
+premier qui s'ouvrit pour le recevoir, 73892, 73968, MISC
+C, 74036, 74037, MISC
+I, 74039, 74040, MISC
+erzählt, 74105, 74113, MISC
+Glück idealisierter Eltern, 74237, 74264, MISC
+natürliche
+, 74366, 74378, ORG
+Glück, 74477, 74483, MISC
+längst jäh
+zerstört, 74535, 74557, MISC
+Sigmund Freud, 74661, 74674, PER
+Freud, 74707, 74712, PER
+Walburga Hülk
+, 74719, 74734, MISC
+Jean-Jacques, 74776, 74788, PER
+coûtai la vie à ma mere, 74961, 74986, PER
+et ma naissance fut le
+premier de mes malheurs, 74988, 75034, MISC
+C, 75036, 75037, MISC
+I, 75039, 75040, MISC
+getötct, 75104, 75112, MISC
+Jcan-Jacques, 75187, 75199, MISC
+Wort “maman, 75313, 75324, PER
+Madame de Warens, 75381, 75397, PER
+Buch 2, 75431, 75437, MISC
+Buch 6, 75442, 75448, MISC
+Geständnisse, 75527, 75540, MISC
+“, 75577, 75578, MISC
+Sclbstbeschuldigungen, 75661, 75682, MISC
+“, 75718, 75719, MISC
+anhängig, 75719, 75728, MISC
+au moment où j'écris
+ceci'', 75831, 75860, MISC
+C, 75862, 75863, MISC
+I, 75865, 75866, MISC
+8), 75868, 75870, MISC
+beständig, 75872, 75882, ORG
+insistierend, 75887, 75899, ORG
+Möglichkeiten, 75904, 75918, MISC
+Totalität, 76033, 76043, MISC
+selbstentblößenden Transparenz, 76048, 76079, MISC
+“, 76093, 76094, MISC
+J ignore cc
+que je fis, 76094, 76116, MISC
+c'est le tems, 76258, 76271, MISC
+la conscience de moi-même', 76304, 76331, MISC
+C, 76333, 76334, MISC
+I, 76336, 76337, MISC
+8), 76339, 76341, MISC
+Glaubwürdigkeit ringt, 76398, 76420, MISC
+mäßigende, 76607, 76617, MISC
+Lücken, 76744, 76751, MISC
+Traumata, 76786, 76794, MISC
+können, 76819, 76826, MISC
+nämlich, 76899, 76907, MISC
+C, 76955, 76956, MISC
+I, 76958, 76959, MISC
+8), 76961, 76963, MISC
+Vermächtnis, 76977, 76989, MISC
+mon pere, 77155, 77163, PER
+W. H., 77166, 77171, PER
+me disoit, 77173, 77182, PER
+Jean Jacques, 77184, 77196, PER
+lui
+, 77221, 77225, PER
+hé bien, 77233, 77241, PER
+mon pere, 77243, 77251, PER
+nous allons, 77253, 77264, PER
+et ce mot seul lui tiroit déja
+, 77279, 77311, MISC
+ne me souviens que de mes prémiéres lectures et de leur effet sur moi, 77331, 77402, MISC
+c'est le
+, 77404, 77413, MISC
+mere avoit
+laissé, 77482, 77500, MISC
+facilité à lire et, 77683, 77703, MISC
+mais une intelligence unique à mon age sur
+les passions, 77719, 77775, MISC
+n'avois aucune idée, 77780, 77800, PER
+n'avois rien concu, 77867, 77885, PER
+j'avois tout senti, 77887, 77905, PER
+n'avois pas encore, 77997, 78015, PER
+mais elles m'en formérent, 78017, 78043, MISC
+et me donnerent de la vie
+humaine, 78068, 78101, MISC
+dont l'experience et la, 78139, 78162, MISC
+n'ont jamais bien pu me guerir, 78174, 78204, MISC
+C, 78206, 78207, MISC
+I, 78209, 78210, MISC
+Sohn, 78366, 78370, PER
+Lektüre-
+programm, 78459, 78477, MISC
+bestätigen, 78512, 78523, MISC
+geringschätzte, 78592, 78607, MISC
+Romanlektüre, 78684, 78697, MISC
+“sensibilité, 78842, 78855, MISC
+“, 78870, 78871, MISC
+n'avois rien concu, 78946, 78964, PER
+j'avois tout
+senti, 78966, 78984, PER
+C, 78988, 78989, MISC
+I, 78991, 78992, MISC
+8), 78994, 78996, MISC
+während, 79002, 79010, MISC
+“, 79046, 79047, MISC
+natürliche
+Erziehung, 79047, 79068, MISC
+wäre, 79325, 79330, MISC
+Geburt “, 79366, 79374, MISC
+prägt, 79419, 79425, PER
+Evokation
+, 79458, 79468, MISC
+Bücher, 79502, 79509, MISC
+qu'elles occasionnoient entre mon pere et moi, 79690, 79735, ORG
+se forma cet esprit
+, 79737, 79757, ORG
+ce caractére indomptable et fier, 79780, 79813, ORG
+me croyois Grec ou Romain, 79961, 79986, ORG
+devenois le
+personnage dont, 79991, 80018, PER
+lisois la vie ..., 80022, 80039, PER
+C, 80041, 80042, MISC
+I, 80044, 80045, MISC
+enfans avant que d'être hommes, 80091, 80122, MISC
+fruits précoces, 80180, 80196, ORG
+et ne tarderont pas à, 80233, 80255, LOC
+manières de voir, 80336, 80353, LOC
+rien n'est moins sensé que d'y vouloir, 80398, 80437, MISC
+substituer les nôtres, 80438, 80460, LOC
+et j'aimerois autant, 80462, 80482, LOC
+qu'un
+enfant, 80491, 80503, MISC
+a quoi lui serviroit la raison à, 80564, 80597, ORG
+et l'enfant n'a pas besoin de ce frein', 80638, 80677, ORG
+Jean-Jacques Rousseau, 80679, 80700, PER
+Emile II, 80702, 80710, PER
+ders, 80716, 80720, MISC
+Euvres complètes, 80724, 80741, MISC
+Walburga Hülk
+, 80756, 80771, LOC
+ursprünglichen, 80791, 80806, ORG
+Identität, 80858, 80868, LOC
+Confessions prägt, 80902, 80920, LOC
+Selbsteinschätzung, 80994, 81013, MISC
+Starobinski, 81076, 81087, PER
+beiläufigen
+Neben- und Zusätzen, 81244, 81277, ORG
+Selbstbilder, 81290, 81302, LOC
+C, 81519, 81520, MISC
+I, 81522, 81523, MISC
+“ces, 81529, 81533, MISC
+me donnerent de la vie humaine, 81559, 81589, MISC
+dont l'experience et la réflexion n'ont, 81627, 81667, LOC
+bien
+pu me guerir'', 81675, 81694, MISC
+C, 81696, 81697, MISC
+I, 81699, 81700, MISC
+8), 81702, 81704, MISC
+Confessions, 81710, 81721, LOC
+zurückwirft, 81852, 81864, ORG
+beständig, 81930, 81940, ORG
+Jean-Jacqucs
+, 81995, 82008, ORG
+Vitam impendere vero, 82168, 82188, ORG
+Confessions, 82284, 82295, PER
+möglicherweise erklärt, 82367, 82391, MISC
+grundsätzlich, 82409, 82423, MISC
+Rousseaus, 82459, 82468, PER
+Naschereien, 82496, 82507, LOC
+Züchtigungen, 82603, 82616, MISC
+Montmorency, 82698, 82709, LOC
+Rousseaus, 82865, 82874, LOC
+s.
+, 83037, 83040, PER
+Jean-Jacques, 83256, 83268, PER
+romaneske
+Glückstopoi, 83296, 83318, PER
+schwärmerischc, 83353, 83368, ORG
+Rousseaus, 83393, 83402, PER
+Georg Christoph Lichtenberg, 83416, 83443, PER
+“, 83445, 83446, MISC
+Über, 83637, 83642, MISC
+Beför-
+, 83683, 83691, MISC
+Menschenliebe, 83702, 83715, ORG
+Menschenkennmniss, 83720, 83737, ORG
+ders, 83743, 83747, MISC
+jean-)acques, 83763, 83775, MISC
+Rousseau, 83825, 83833, PER
+Ariès, 83871, 83877, MISC
+Sa fille, 84045, 84053, MISC
+etoit morte, 84061, 84072, PER
+mais
+il avoit un fils de même age que moi, 84074, 84116, ORG
+chez le Ministre Lambercier, 84163, 84190, PER
+bien d'un prix inestimable en
+, 84246, 84276, MISC
+cœur à l'amitie, 84290, 84306, PER
+n'avois connu que, 84323, 84340, PER
+élevés, 84355, 84363, ORG
+mais imaginaires, 84365, 84381, ORG
+vivre ensemble dans un état paisible
+m'unit, 84397, 84441, ORG
+à mon, 84453, 84459, PER
+Bernard, 84467, 84474, PER
+nos amusemens, 84495, 84508, ORG
+nos
+, 84510, 84514, ORG
+chacun
+, 84587, 84594, ORG
+deux avoit besoin d'un camarade, 84598, 84629, MISC
+l'un pour l'autre, 84764, 84781, MISC
+Etre aimé de tout ce qui
+m'approchoit, 84809, 84847, MISC
+ceux
+qui nous gouvemoient, 84918, 84943, PER
+cœur les
+, 85073, 85082, MISC
+C, 85225, 85226, MISC
+I, 85228, 85229, MISC
+“sensibilité, 85280, 85293, MISC
+Homosexualität, 85358, 85373, MISC
+Rousseaus
+, 85392, 85402, PER
+Laforgue, 85413, 85421, PER
+Raymond, 85441, 85448, PER
+erzähltechnisch, 85482, 85498, MISC
+ni fait, 85806, 85813, ORG
+ni pensé même, 85815, 85830, ORG
+mais goûté, 85832, 85844, MISC
+mais senti, 85846, 85856, MISC
+sans que, 85858, 85866, PER
+énoncer d'autre objet de
+mon bonheur que ce sentiment même, 85877, 85937, PER
+Je me levois avec le soleil et j'étois heureux, 85939, 85986, MISC
+j'étois heureux, 86007, 86023, PER
+voyois maman, 86028, 86040, PER
+j'étois heureux, 86044, 86060, PER
+la quit-
+tois, 86065, 86078, PER
+j'étois heureux, 86082, 86098, PER
+C, 86102, 86103, MISC
+VI, 86105, 86107, MISC
+Sündenfall, 86164, 86175, ORG
+Paradies, 86200, 86208, MISC
+Paares, 86453, 86459, LOC
+zerstört, 86465, 86474, LOC
+Vater-Sohn-Dyade, 86508, 86524, MISC
+jähes, 86644, 86650, MISC
+lächerlichen, 86663, 86676, MISC
+Verhältnis, 86797, 86808, MISC
+C, 86892, 86893, MISC
+I, 86895, 86896, MISC
+Tages nämlich, 86909, 86923, MISC
+Hausmädchen, 86933, 86945, MISC
+verdächtigt, 87137, 87149, MISC
+verhört, 87154, 87162, ORG
+on ne put m'arracher l'aveu qu'on exigeoit'', 87164, 87208, ORG
+C, 87210, 87211, MISC
+I, 87213, 87214, MISC
+Jean-Jacques, 87251, 87263, PER
+C, 87300, 87301, MISC
+Lejeune, 87336, 87343, MISC
+natürlich, 87441, 87451, ORG
+Jean-Jacques, 87507, 87519, PER
+entblößung, 87545, 87556, ORG
+sortis de cette, 87692, 87707, PER
+mais triomphant, 87736, 87751, MISC
+près de cinquante, 87771, 87789, PER
+dc cette avanture, 87794, 87811, ORG
+à la face du
+Ciel que j'en étois, 87906, 87940, MISC
+que je n'avois ni cassé ni touché le peigne, 87951, 87996, MISC
+que je
+, 87998, 88005, MISC
+ct que, 88043, 88049, ORG
+l'ignore, 88134, 88142, PER
+ce
+que je sais, 88170, 88184, MISC
+c'est que j'en, 88205, 88219, PER
+innocent, 88227, 88235, LOC
+mais ardent, 88307, 88318, MISC
+indomptable dans les passions, 88326, 88355, MISC
+un enfant, 88357, 88366, MISC
+qui n'avoit pas même l'idée de
+, 88373, 88406, ORG
+et qui, 88422, 88428, MISC
+pour la prémiére fois en éprouve une si terrible, 88430, 88481, MISC
+de la part
+, 88483, 88494, ORG
+gens qu'il chérit et qu'il respecte le plus, 88512, 88556, ORG
+ces momens me seront
+toujours, 88621, 88650, MISC
+quand je vivrois cent mille, 88660, 88687, MISC
+que
+15 toutes les idées qui s'y, 88796, 88828, MISC
+me rendent ma prémiere emotion, 88840, 88871, ORG
+et ce
+sentiment, 88873, 88888, MISC
+a pris une telle consistance en lui-me, 88922, 88960, MISC
+détaché de tout interest personnel, 88981, 89017, MISC
+quc mon cur s'enflamme au
+spectacle ou au récit de toute action injuste, 89019, 89091, MISC
+quel qu'en soit l'objet et en quelque
+lieu qu'elle se commette, 89093, 89155, MISC
+comme si l'effet, 89157, 89173, MISC
+La fut le terme de la serenité de ma vie enfantine, 89205, 89256, MISC
+C, 89258, 89259, MISC
+l, 89261, 89262, MISC
+Paradies, 89313, 89321, MISC
+Sündenfall, 89386, 89397, MISC
+buchstäblich, 89440, 89453, ORG
+heroisch-tragischen, 89661, 89680, MISC
+Denkens, 89806, 89813, LOC
+Handelns, 89818, 89826, PER
+Sünden, 89955, 89962, MISC
+C, 90065, 90066, MISC
+I, 90068, 90069, MISC
+Missetäter, 90140, 90151, MISC
+lis les cruautés d'un tyran féroce, 90201, 90237, MISC
+les, 90239, 90242, MISC
+d'un fourbe de
+prêtre, 90262, 90284, PER
+partirois volontiers, 90289, 90309, PER
+ces misérables, 90332, 90347, MISC
+dussai-je cent
+fois y périr, 90349, 90377, MISC
+à poursuivre, 90411, 90424, PER
+une vache, 90467, 90476, ORG
+un chien, 90478, 90486, ORG
+un
+autre, 90525, 90533, ORG
+parce qu'il se sentoit le plus, 90546, 90576, ORG
+crois qu'il l'est, 90624, 90641, PER
+mais le souvenir profond de la prémiére injustice
+que j'ai soufferte y fut trop longtems et trop fortement lié, 90643, 90756, PER
+pour ne l'avoir pas
+beaucoup renforcé, 90758, 90796, ORG
+C, 90798, 90799, MISC
+I, 90801, 90802, MISC
+lächerliche, 90813, 90825, MISC
+Kamms, 90878, 90883, LOC
+C, 90964, 90965, MISC
+I, 90967, 90968, MISC
+Bekenntnisse, 90978, 90990, MISC
+erzählen, 91018, 91027, ORG
+ce qui, 91029, 91035, MISC
+coûte le plus, 91042, 91056, MISC
+c'est ce qui est ridicule et honteux'', 91066, 91104, MISC
+C, 91106, 91107, MISC
+I, 91109, 91110, MISC
+Lüge, 91156, 91161, MISC
+Jean-Jacques, 91165, 91177, LOC
+Gang
+, 91300, 91305, LOC
+Prozeß um Unschuld und Schuld, 91327, 91356, MISC
+à mentir'', 91424, 91435, PER
+C, 91437, 91438, MISC
+Jean-Jacques, 91713, 91725, PER
+Aquädukts, 91762, 91772, MISC
+C, 91831, 91832, MISC
+_24, 91836, 91839, MISC
+Paradieses endgültig, 91906, 91927, MISC
+dévoré de desirs dont j'ignorois l'objet, 91973, 92015, LOC
+sans
+sujets de larmes, 92026, 92047, PER
+enfin caressant, 92080, 92095, PER
+mes
+chiméres, 92107, 92120, PER
+C, 92123, 92124, MISC
+I, 92126, 92127, MISC
+Wünsche, 92175, 92183, MISC
+C, 92236, 92237, MISC
+I, 92239, 92240, MISC
+nächtlichen Heimkehr
+, 92261, 92283, MISC
+Jüngling, 92427, 92436, MISC
+Heinrich von Kleists, 92498, 92518, PER
+C, 92596, 92597, MISC
+I, 92599, 92600, MISC
+Jean-Jacques, 92646, 92658, MISC
+celui qui laissoit l'esprit le plus libre, 93022, 93063, MISC
+étoit celui qui me convenoit le mieux, 93065, 93103, MISC
+J'aurois passé dans le sein de ma religion, 93140, 93183, MISC
+de ma
+patrie, 93185, 93197, MISC
+de ma famille et de mes amis, 93199, 93227, MISC
+une vie paisible et douce, 93229, 93254, MISC
+telle qu'il la
+, 93256, 93271, MISC
+à mon caractére, 93281, 93298, MISC
+dans l'uniformité d'un travail de mon gout, 93300, 93343, MISC
+et d'une
+société selon mon cœur, 93345, 93378, MISC
+bon Chrétien, 93395, 93408, MISC
+bon citoyen, 93410, 93421, PER
+bon pere de
+
+, 93423, 93436, PER
+Walburga Hülk
+famille, 93440, 93462, ORG
+bon ami, 93464, 93471, PER
+bon ouvrier, 93473, 93484, PER
+bon homme en toute chose, 93486, 93510, PER
+J'aurois aimé mon ctat, 93512, 93535, MISC
+l'aurois honoré peut-être, 93540, 93567, ORG
+Bientôt, 93691, 93699, LOC
+regretté du moins aussi longtems qu'on se seroit souvenu
+de moi, 93738, 93802, MISC
+quel tableau, 93824, 93836, PER
+Ah!
+n'anticipons point sur les
+miséres, 93852, 93891, ORG
+l.
+, 93962, 93965, PER
+Lektüre, 94072, 94080, MISC
+schrägen, 94189, 94198, MISC
+Das Buch des Lebens, 94213, 94232, MISC
+Konditional II, 94417, 94431, LOC
+Genrebild
+, 94447, 94457, PER
+Rousseaus, 94574, 94583, PER
+scit
+, 94607, 94612, PER
+“l'œuvre de tenebres, 94732, 94752, PER
+me trouve enseveli, 94784, 94802, MISC
+C, 94804, 94805, MISC
+XII, 94807, 94810, MISC
+Einsame
+, 94846, 94854, MISC
+beteuernd, 94912, 94921, PER
+zurückgeleitet, 95029, 95044, ORG
+ô ma mére
+, 95088, 95100, MISC
+C, 95101, 95102, MISC
+XII, 95104, 95107, MISC
+hinüber, 95152, 95160, MISC
+fünfte “, 95202, 95211, MISC
+du promeneur solitaire, 95220, 95242, MISC
+Bieler Sees, 95300, 95311, LOC
+autre Robinson
+une demeure imaginaire dans cette, 95561, 95609, PER
+J'ai dit la vérité, 95628, 95648, MISC
+C, 95650, 95651, MISC
+XII, 95653, 95656, MISC
+Jean-Jacqucs, 95695, 95707, MISC
+rousseauistischen Gesellschaft, 95754, 95784, ORG
+diesc, 95794, 95799, ORG
+Rousseaus, 95847, 95856, PER
+begründen, 95934, 95944, MISC
+Bildfülle, 96014, 96024, MISC
+Rousseau, 96108, 96116, PER
+Subjektivität, 96146, 96160, MISC
+Eigentümlichkeit, 96186, 96203, MISC
+Körpers, 96208, 96216, MISC
+Jean-Jacques Rousseau, 96366, 96387, PER
+Les Confessions, 96389, 96404, PER
+ders, 96410, 96414, MISC
+Euvres complètes, 96417, 96434, PER
+hrsg.
+v. Bernard
+Gagnebin, 96436, 96461, ORG
+Marcel Raymond, 96464, 96478, PER
+Bd. I, 96480, 96485, PER
+Paris, 96487, 96492, LOC
+Pléiade, 96499, 96507, MISC
+Sigle C, 96568, 96575, MISC
+Jean-Jacques Rousseau, 96605, 96626, PER
+Les Confessions, 96628, 96643, PER
+hrsg.
+v. Jacques Voisine, 96645, 96669, ORG
+Paris, 96671, 96676, LOC
+Jean-Jacques Rousseau, 96683, 96704, PER
+ders, 96768, 96772, MISC
+Bemard Gagnebin, 96803, 96818, PER
+Marcel Raymond, 96821, 96835, PER
+Bd. III, 96837, 96844, PER
+Paris, 96846, 96851, LOC
+Pléiade, 96858, 96866, MISC
+Sigle D, 96927, 96934, ORG
+Jean-Jacques Rousseau, 96964, 96985, PER
+Julie ou La Nouvelle Héloise, 96987, 97016, PER
+ders, 97022, 97026, MISC
+Euvres complètes, 97029, 97046, PER
+hrsg.
+v.
+Bernard Gagnebin, 97048, 97073, ORG
+Marcel Raymond, 97076, 97090, PER
+Bd. II, 97092, 97098, PER
+Paris, 97100, 97105, LOC
+Pléiade, 97112, 97120, MISC
+Sigle J, 97181, 97188, MISC
+Jean-Jacques Rousseau, 97218, 97239, PER
+Julie ou La nouvelle Héloise, 97241, 97270, PER
+hrsg.
+v. René Pomeau, 97272, 97293, PER
+Paris, 97295, 97300, LOC
+Jean-Jacques Rousseau, 97344, 97365, PER
+Euvres complètes, 97367, 97384, PER
+hrsg.
+v. Bernard Gagnebin Marcel Raymond, 97386, 97426, PER
+Paris, 97436, 97441, LOC
+Pléiade, 97453, 97461, MISC
+Jean-Jacques Rousseau, 97464, 97485, PER
+Les Rêveries, 97487, 97500, PER
+ders, 97529, 97533, MISC
+Euvres complètes, 97536, 97553, PER
+Bernard Gagnebin, 97564, 97580, PER
+Marcel Raymond, 97583, 97597, PER
+Bd. I, 97599, 97604, PER
+Paris, 97606, 97611, LOC
+Pléiade, 97618, 97626, MISC
+Sigle R, 97687, 97694, LOC
+Ariès, 97757, 97763, MISC
+Französischen, 97798, 97812, MISC
+Caroline Neubaur, 97817, 97833, PER
+Karin Kersten, 97838, 97851, PER
+München, 97853, 97861, MISC
+Wien, 97864, 97868, LOC
+Erinnerungsräume, 97891, 97908, MISC
+München, 97966, 97974, MISC
+Gedächtnisses, 98105, 98119, LOC
+Frank Baasner, 98122, 98135, PER
+Ideals, 98214, 98220, LOC
+Heidelberg, 98222, 98232, LOC
+Studia Romanica 69, 98239, 98257, MISC
+Gaston Bachelard, 98287, 98303, PER
+Paris, 98366, 98371, LOC
+“nouvelle critique, 98393, 98411, MISC
+imagination matérielle'', 98437, 98462, MISC
+Roland Barthes, 98521, 98535, PER
+Fragments d'un discours amoureux, 98537, 98569, MISC
+Paris, 98571, 98576, LOC
+Elisabeth Bronfen, 98583, 98600, PER
+Nur über, 98602, 98611, PER
+Weiblichkeit, 98630, 98642, PER
+Ästhetik, 98647, 98656, MISC
+München, 98658, 98666, MISC
+L'amour des lettres ou le contrat déchiré, 98694, 98737, ORG
+MANA 3, 98739, 98745, MISC
+Mannheim
+, 98754, 98763, ORG
+Jacques Derida, 98769, 98783, PER
+De la grammatologie, 98785, 98804, PER
+Paris, 98806, 98811, LOC
+Klaus Dirscherl, 98818, 98833, PER
+Der Roman der Philosophen, 98835, 98860, MISC
+Tübingen, 98862, 98871, MISC
+Marc Eigeldinger, 98878, 98894, PER
+Jean-Jacques Rousseau, 98896, 98917, PER
+mythigue et cohérence, 98927, 98949, MISC
+Neuchâtel, 98951, 98961, MISC
+Walburga Hülk
+, 98972, 98987, ORG
+Michel Foucault, 98987, 99002, PER
+Sexualität, 99004, 99015, MISC
+Bd. I, 99030, 99035, MISC
+Der Wille zum Wīssen, 99037, 99058, MISC
+Frankfurt/M.
+, 99060, 99073, LOC
+Sigmund Freud, 99078, 99091, PER
+Der Wolfsmann, 99138, 99151, MISC
+Sigmund Freud Studienausgabe, 99172, 99200, PER
+hrsg.
+v. Alcxander Mitscherlich, 99202, 99233, PER
+Bd. VIII, 99257, 99265, PER
+Zwei Kinderneurosen, 99267, 99286, MISC
+FrankfurtM.
+1969, 99289, 99305, MISC
+“, 99387, 99388, MISC
+Roland Galle, 99400, 99412, PER
+Rousseaus Autobiographie, 99452, 99476, PER
+Freiburger, 99482, 99492, MISC
+Gespräche 1, 99517, 99529, MISC
+München, 99581, 99589, MISC
+Bern, 99592, 99596, LOC
+Henri Gouhier, 99610, 99623, PER
+Paris, 99675, 99680, LOC
+Nicola Graap, 99687, 99699, PER
+Clarens, 99721, 99728, LOC
+Verhältnis, 99734, 99745, MISC
+Vertu
+, 99764, 99770, ORG
+Jean-Jacques Rousscaus, 99784, 99806, PER
+Nouvelle Héloise, 99819, 99836, PER
+Literar
+, 99844, 99852, PER
+Dieter Groh, 99907, 99918, PER
+Kulturgeschichte der Nar, 99953, 99977, MISC
+Toronto, 100161, 100168, LOC
+Buffalo, 100171, 100178, LOC
+London, 100181, 100187, LOC
+Kultur
+, 100195, 100202, ORG
+Joseph Jurt, 100228, 100239, PER
+“Rousseau, 100241, 100250, PER
+Begründer ciner, 100252, 100268, PER
+Monika Fludernik Ruth
+Nestvold, 100295, 100325, PER
+Hrsg.
+, 100327, 100333, ORG
+Trier, 100357, 100362, LOC
+Realität, 100393, 100402, MISC
+Naturzustands, 100446, 100459, PER
+Rousseau, 100466, 100474, PER
+Claude, 100561, 100567, PER
+Marianne Kesting, 100584, 100600, PER
+Arkadien, 100604, 100612, LOC
+Manfred Smuda, 100706, 100719, PER
+Hrsg.
+, 100721, 100727, ORG
+Landschafi, 100730, 100740, LOC
+Frankfurt/M.
+, 100742, 100755, ORG
+französischen Literatur, 100815, 100839, ORG
+Aufklärung II, 100841, 100855, MISC
+Dietmar Rieger, 100866, 100880, PER
+Stuttgart, 100882, 100891, LOC
+Berlin, 100894, 100900, LOC
+Köln, 100903, 100908, LOC
+Mainz, 100911, 100916, LOC
+Kosellek, 100932, 100940, PER
+FrankfurM.
+, 100960, 100971, MISC
+Jules Laforgue, 100977, 100991, PER
+Jcan-Jacques Rousseau, 101004, 101025, PER
+Paris, 101107, 101112, LOC
+Rousseau, 101156, 101164, PER
+Le pacte autobiographigue, 101185, 101210, LOC
+Paris, 101212, 101217, LOC
+Collection Poétique, 101224, 101244, MISC
+Poétigue, 101331, 101340, MISC
+Georg Christoph Lichtenberg, 101357, 101384, PER
+Schrifen d Briefe, 101386, 101403, PER
+Wolfgang Promies, 101414, 101430, PER
+Bd. IIl, 101440, 101447, PER
+München, 101449, 101457, MISC
+Link, 101481, 101485, PER
+Vincennes, 101525, 101534, PER
+Deutsche, 101542, 101550, MISC
+Hölderlin-Rousseau, 101560, 101579, MISC
+Opladen Wiesbaden, 101602, 101619, MISC
+Niklas Luhmann, 101627, 101641, PER
+Intimität, 101680, 101690, MISC
+Frankfurt/M.
+, 101692, 101705, ORG
+Allegories of reading, 101724, 101745, ORG
+Rousseau, 101767, 101775, LOC
+Nietzsche, 101777, 101786, PER
+Rilke, 101788, 101793, PER
+New laven, 101807, 101816, LOC
+London, 101819, 101825, LOC
+Blindness and Insight, 101845, 101866, ORG
+Gerhard Neumann, 101964, 101979, PER
+“Skandalon, 101981, 101991, PER
+soziale Identität, 102015, 102033, MISC
+Kleists, 102037, 102044, PER
+O..., 102059, 102063, MISC
+Cervantes, 102072, 102081, PER
+ders, 102123, 102127, MISC
+Hrsg.
+, 102130, 102136, ORG
+Heinrich
+von Kleist, 102139, 102158, PER
+Sündenfall, 102186, 102197, ORG
+Freiburg, 102199, 102207, ORG
+Rombach, 102214, 102221, LOC
+litterae 20, 102242, 102253, MISC
+schöner anthropologisch-semiotischer Beitrag, 102271, 102316, MISC
+Rudolf Picard, 102325, 102338, PER
+Jahrhun-
+derts, 102400, 102414, ORG
+Heidelberg, 102416, 102426, ORG
+Marcel Raymond, 102499, 102513, PER
+Jean-Jacques Rousseau, 102515, 102536, PER
+Paris, 102571, 102576, LOC
+Rousseaus Weltbild, 102606, 102624, PER
+Marthe Robert, 102680, 102693, PER
+Roman des origines et origines du roman, 102695, 102734, PER
+Paris, 102736, 102741, LOC
+Manfred Smuda, 102748, 102761, PER
+Hrsg.
+, 102763, 102769, ORG
+Landschafi, 102772, 102782, ORG
+FrankfurtM.
+, 102784, 102796, ORG
+Interdisziplinäre, 102803, 102821, MISC
+Jean Starobinski, 102861, 102877, PER
+L'œil vivant, 102879, 102891, PER
+Bd. I, 102893, 102898, PER
+Essai, 102900, 102905, LOC
+Corneille, 102907, 102916, LOC
+Racine, 102918, 102924, LOC
+Rousseau, 102926, 102934, LOC
+Stendhal, 102936, 102944, LOC
+Paris
+, 102947, 102953, ORG
+Ingeniöse, 102960, 102970, ORG
+Subjektivität, 102992, 103006, MISC
+Jean Starobinski, 103035, 103051, PER
+Jean-Jacgues Rousseau, 103053, 103074, PER
+Paris, 103107, 103112, LOC
+Rousseau, 103164, 103172, PER
+Nizet, 103200, 103205, PER
+Textauszügen, 103235, 103248, MISC
+Paris, 103292, 103297, LOC
+Anne Vincent-Buffault, 103391, 103412, PER
+larmes, 103427, 103433, PER
+XVIIIe-XIXe siècles, 103435, 103455, PER
+Paris, 103457, 103462, LOC
+Die zurechtgelegte Frau, 103502, 103525, MISC
+trans-
+, 103546, 103553, MISC
+Familie Kleists, 103564, 103579, PER
+Marquise von O..., 103581, 103598, MISC
+Neumann, 103606, 103613, PER
+ausgeführte, 103651, 103663, ORG
+Rousseau, 103713, 103721, PER
+Birgit Wagner, 103735, 103748, PER
+französischen
+Spätaufklärung, 103811, 103842, ORG
+Wien, 103844, 103848, LOC
+Köln, 103851, 103856, LOC
+Graz, 103859, 103863, LOC
+Wiener, 103876, 103882, MISC
+Don Quijote, 103915, 103926, PER
+Frankenstein, 103931, 103943, PER
+Stuttgart, 104055, 104064, LOC

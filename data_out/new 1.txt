@@ -1,0 +1,18 @@
+query = """SELECT ?listItem ?seqID ?author ?title ?keyword
+			WHERE {
+			?listItem j.2:itemContent ?record .
+			?record j.7:references ?manifest .
+			?manifest j.4:embodimentOf ?expression .
+			
+			?listItem j.5:hasSequenceIdentifier ?seqID .
+			?manifest j.3:keyword ?keyword .
+			
+			OPTIONAL { 
+				?expression j.0:creator ?author .
+				FILTER(datatype(?author) = xsd:string) .
+			}
+			OPTIONAL {
+				?expression j.0:title ?title .
+				FILTER(datatype(?title) = xsd:string) .
+			}
+			}"""
