@@ -74,24 +74,28 @@ def titelsuche():
 
     my_text = re.escape(my_text)
 
+# Zeilenliste2 enthält alle Titel der Bibliographie
+# zeilenliste2 wird gesäubert
     zeilenliste2 = []
     for item in zeilenliste:
         item_escaped = re.escape(item)
         item_cleaned = re.sub(",", "", item_escaped)
         zeilenliste2.append(item_cleaned)
 
-    # print(zeilenliste2)
+    print(len(zeilenliste2))
 
     #ergebnis = re.findall(zeilenliste2[0], my_text)
     #print(ergebnis)
-
+    ergebnisliste = []
     for i in range(len(zeilenliste)):
         ergebnis = re.findall(zeilenliste2[i], my_text)
+        if ergebnis:
+            ergebnisliste.append(ergebnis)
+    print(ergebnisliste)
+    with open("data_out/Grimm_Hartwig_Moralistik_Die_französische_Revolution_241-243_titel.txt", "a", encoding="utf-8") as file:
+        for item in ergebnisliste:
+            file.write("%s\n" % item)
 
-        print(ergebnis)
-        with open("data_out/Grimm_Hartwig_Moralistik_Die_französische_Revolution_241-243_titel.txt", "a", encoding="utf-8") as file:
-            file.writelines(ergebnis)
-            file.write("\n")
 
 
 # ############ NE-Suche ######################
