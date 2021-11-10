@@ -74,7 +74,7 @@ def titelsuche():
     txt_paths = glob.glob("data_in/titelsuche/*.txt")  # Save the (relative) paths of all .txt files in a list
     print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
-    for path in txt_paths: #Jeder path wird
+    for path in txt_paths:
         file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titelsuche" and .extension
 
         with open("data_in/titelsuche/" + file_name + ".txt", encoding="utf-8") as file:
@@ -114,24 +114,30 @@ def ner():
 
     nlp_de = spacy.load("de_core_news_md")
 
-    with open("data_in/Grimm_Hartwig_Moralistik_Die_französische_Revolution_241-243.txt", encoding="utf-8") as file:
-        data = file.read()
+    txt_paths = glob.glob("data_in/ner/*.txt")  # Save the (relative) paths of all .txt files in a list
+    print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
-    doc = nlp_de(data)
+    for path in txt_paths:
+        file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titelsuche" and .extension
 
-    for ent in doc.ents:
-        print(ent.text, ent.start_char, ent.end_char, ent.label_)
+        with open("data_in/ner/" + file_name + ".txt", encoding="utf-8") as file:
+            data = file.read()
 
+        doc = nlp_de(data)
 
-    with open("data_out/Grimm_Hartwig_Moralistik_Die_französische_Revolution_241-243_ner.txt", "w", encoding="utf-8") as file:
-        file.write("start \n")
         for ent in doc.ents:
-            file.write(str(ent.text) + ", " + str(ent.start_char) + ", " + str(ent.end_char) + ", " + str(ent.label_) + "\n")
+            print(ent.text, ent.start_char, ent.end_char, ent.label_)
+
+
+        with open("data_out/ner/"+file_name+"_ner.txt", "w", encoding="utf-8") as file:
+            file.write("start \n")
+            for ent in doc.ents:
+                file.write(str(ent.text) + ", " + str(ent.start_char) + ", " + str(ent.end_char) + ", " + str(ent.label_) + "\n")
 
 
 # ############ Funktionsaufrufe #########################
 
 # title_extraction()
 # titel_kuerzen()
-titelsuche()
-# ner()
+#titelsuche()
+ner()
