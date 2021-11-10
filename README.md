@@ -1,4 +1,4 @@
-# NER_2021 enthält das Skript NER_0807.py
+# Named Entity Recognition for Scholary Publications
 
 Input: Ordner data_in
 
