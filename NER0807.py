@@ -12,20 +12,12 @@ import os
 
 def title_extraction():
     # Liste der Dateien
-    dateiliste = glob.glob("data_in/*.xml")
+    txt_paths = glob.glob("data_in/title_extraction/*.xml")  # Save the (relative) paths of all .txt files in a list
+    print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
-    # Jedes Element der Liste durchsuchen
-    for datei in dateiliste:
-        try:
-            d = open(datei, encoding="utf8")
-        except:
-            print("Dateizugriff nicht erfolgreich")
-
-        # Text einlesen
-        gesamtertext = d.read()
-
-        # Zugriff beenden
-        d.close()
+    for path in txt_paths:
+        with open("data_in/title_extraction/" + file_name + ".xml", encoding="utf-8") as file:
+            gesamtertext = file.read()
 
         # Suchtext suchen
         titel = re.findall("<ti>(.*)</ti>", gesamtertext)
@@ -139,7 +131,7 @@ def ner():
 
 # ############ Funktionsaufrufe #########################
 
-# title_extraction()
+title_extraction()
 # titel_kuerzen()
 #titelsuche()
 #ner()
