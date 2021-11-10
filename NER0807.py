@@ -64,8 +64,8 @@ def titel_kuerzen():
 
 # ##################### Titelsuche #####################
 def titelsuche():
-    with open("data_in/Werktitel_short_short.csv", encoding="utf-8") as file:
-        data = file.read()            #short x2
+    with open("data_in/Werktitel_short.csv", encoding="utf-8") as file:
+        data = file.read()
 
     data = re.escape(data)
     zeilenliste = data.split(chr(10))
@@ -74,7 +74,7 @@ def titelsuche():
     txt_paths = glob.glob("data_in/titelsuche/*.txt")  # Save the (relative) paths of all .txt files in a list
     print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
-    for path in txt_paths:
+    for path in txt_paths: #Jeder path wird
         file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titelsuche" and .extension
 
         with open("data_in/titelsuche/" + file_name + ".txt", encoding="utf-8") as file:
