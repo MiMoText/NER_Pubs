@@ -3,6 +3,7 @@ import csv
 import spacy
 import glob
 import sys
+import os
 
 # ###### Extrahiere Titel ###############
 # Hier werden getaggte XML-Dateien eingelesen
@@ -63,38 +64,48 @@ def titel_kuerzen():
 
 # ##################### Titelsuche #####################
 def titelsuche():
-    with open("data_in/Werktitel_short.csv", encoding="utf-8") as file:
-        data = file.read()
+    with open("data_in/Werktitel_short_short.csv", encoding="utf-8") as file:
+        data = file.read()            #short x2
+
     data = re.escape(data)
     zeilenliste = data.split(chr(10))
-    # print(zeilenliste)
+   # print(zeilenliste)
 
-    with open("data_in/Grimm_Hartwig_Moralistik_Die_französische_Revolution_241-243.txt", encoding="utf-8") as file:
-        my_text = file.read()
+    txt_paths = glob.glob("data_in/titelsuche/*.txt")  # Save the (relative) paths of all .txt files in a list
+    print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
-    my_text = re.escape(my_text)
+    for path in txt_paths:
+        file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titelsuche" and .extension
 
-# Zeilenliste2 enthält alle Titel der Bibliographie
-# zeilenliste2 wird gesäubert
-    zeilenliste2 = []
-    for item in zeilenliste:
-        item_escaped = re.escape(item)
-        item_cleaned = re.sub(",", "", item_escaped)
-        zeilenliste2.append(item_cleaned)
+        with open("data_in/titelsuche/" + file_name + ".txt", encoding="utf-8") as file:
+            my_text = file.read()
 
-    print(len(zeilenliste2))
+        my_text = re.escape(my_text)
 
-    #ergebnis = re.findall(zeilenliste2[0], my_text)
-    #print(ergebnis)
-    ergebnisliste = []
-    for i in range(len(zeilenliste)):
-        ergebnis = re.findall(zeilenliste2[i], my_text)
-        if ergebnis:
-            ergebnisliste.append(ergebnis)
-    print(ergebnisliste)
-    with open("data_out/Grimm_Hartwig_Moralistik_Die_französische_Revolution_241-243_titel.txt", "a", encoding="utf-8") as file:
-        for item in ergebnisliste:
-            file.write("%s\n" % item)
+    # Zeilenliste2 enthält alle Titel der Bibliographie
+    # zeilenliste2 wird gesäubert
+
+        zeilenliste2 = []
+        for item in zeilenliste:
+            item_escaped = re.escape(item)
+            item_cleaned = re.sub(",", "", item_escaped)
+            zeilenliste2.append(item_cleaned)
+
+        #print(zeilenliste2)
+
+
+        ergebnisliste = []
+        #ergebnis = re.findall(zeilenliste2[0], my_text)
+        # print(ergebnis)
+
+        for i in range(len(zeilenliste)):
+            ergebnis = re.findall(zeilenliste2[i], my_text)
+            if ergebnis:
+                ergebnisliste.append(ergebnis)
+       # print(ergebnisliste)
+        with open("data_out/titelsuche/" + file_name +"_titel" ".txt","w", encoding="utf-8") as file:
+            for item in ergebnisliste:
+                file.write("%s\n" % item_cleaned)
 
 
 
