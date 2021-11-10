@@ -36,6 +36,7 @@ def title_extraction():
         f = open("data_in/Werktitel.csv", "a", encoding="utf8")
         for item in titel:
             f.writelines(str(item) + "\n")
+        f.close()
 
 
 # ####### Werktitel kürzen #####################
@@ -61,6 +62,7 @@ def titel_kuerzen():
     f = open("data_in/Werktitel_short.csv", "a", encoding="utf8")
     for item in list_titles_short2:
         f.writelines(str(item) + ",\n")
+    f.close()
 
 # ##################### Titelsuche #####################
 def titelsuche():
@@ -140,4 +142,4 @@ def ner():
 # title_extraction()
 # titel_kuerzen()
 #titelsuche()
-ner()
+#ner()
