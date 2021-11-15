@@ -3,6 +3,7 @@ import csv
 import spacy
 import glob
 import sys
+import os
 
 # ###### Extrahiere Titel ###############
 # Hier werden getaggte XML-Dateien eingelesen
@@ -11,20 +12,12 @@ import sys
 
 def title_extraction():
     # Liste der Dateien
-    dateiliste = glob.glob("data_in/*.xml")
+    txt_paths = glob.glob("data_in/title_extraction/*.xml")  # Save the (relative) paths of all .txt files in a list
+    print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
-    # Jedes Element der Liste durchsuchen
-    for datei in dateiliste:
-        try:
-            d = open(datei, encoding="utf8")
-        except:
-            print("Dateizugriff nicht erfolgreich")
-
-        # Text einlesen
-        gesamtertext = d.read()
-
-        # Zugriff beenden
-        d.close()
+    for path in txt_paths:
+        with open("data_in/title_extraction/" + file_name + ".xml", encoding="utf-8") as file:
+            gesamtertext = file.read()
 
         # Suchtext suchen
         titel = re.findall("<ti>(.*)</ti>", gesamtertext)
@@ -35,6 +28,7 @@ def title_extraction():
         f = open("data_in/Werktitel.csv", "a", encoding="utf8")
         for item in titel:
             f.writelines(str(item) + "\n")
+        f.close()
 
 
 # ####### Werktitel kürzen #####################
@@ -60,41 +54,52 @@ def titel_kuerzen():
     f = open("data_in/Werktitel_short.csv", "a", encoding="utf8")
     for item in list_titles_short2:
         f.writelines(str(item) + ",\n")
+    f.close()
 
 # ##################### Titelsuche #####################
 def titelsuche():
     with open("data_in/Werktitel_short.csv", encoding="utf-8") as file:
         data = file.read()
+
     data = re.escape(data)
     zeilenliste = data.split(chr(10))
-    # print(zeilenliste)
+   # print(zeilenliste)
 
-    with open("data_in/Grimm_Hartwig_Moralistik_Die_französische_Revolution_241-243.txt", encoding="utf-8") as file:
-        my_text = file.read()
+    txt_paths = glob.glob("data_in/titelsuche/*.txt")  # Save the (relative) paths of all .txt files in a list
+    print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
-    my_text = re.escape(my_text)
+    for path in txt_paths:
+        file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titelsuche" and .extension
 
-# Zeilenliste2 enthält alle Titel der Bibliographie
-# zeilenliste2 wird gesäubert
-    zeilenliste2 = []
-    for item in zeilenliste:
-        item_escaped = re.escape(item)
-        item_cleaned = re.sub(",", "", item_escaped)
-        zeilenliste2.append(item_cleaned)
+        with open("data_in/titelsuche/" + file_name + ".txt", encoding="utf-8") as file:
+            my_text = file.read()
 
-    print(len(zeilenliste2))
+        my_text = re.escape(my_text)
 
-    #ergebnis = re.findall(zeilenliste2[0], my_text)
-    #print(ergebnis)
-    ergebnisliste = []
-    for i in range(len(zeilenliste)):
-        ergebnis = re.findall(zeilenliste2[i], my_text)
-        if ergebnis:
-            ergebnisliste.append(ergebnis)
-    print(ergebnisliste)
-    with open("data_out/Grimm_Hartwig_Moralistik_Die_französische_Revolution_241-243_titel.txt", "a", encoding="utf-8") as file:
-        for item in ergebnisliste:
-            file.write("%s\n" % item)
+    # Zeilenliste2 enthält alle Titel der Bibliographie
+    # zeilenliste2 wird gesäubert
+
+        zeilenliste2 = []
+        for item in zeilenliste:
+            item_escaped = re.escape(item)
+            item_cleaned = re.sub(",", "", item_escaped)
+            zeilenliste2.append(item_cleaned)
+
+        #print(zeilenliste2)
+
+
+        ergebnisliste = []
+        #ergebnis = re.findall(zeilenliste2[0], my_text)
+        # print(ergebnis)
+
+        for i in range(len(zeilenliste)):
+            ergebnis = re.findall(zeilenliste2[i], my_text)
+            if ergebnis:
+                ergebnisliste.append(ergebnis)
+       # print(ergebnisliste)
+        with open("data_out/titelsuche/" + file_name +"_titel" ".txt","w", encoding="utf-8") as file:
+            for item in ergebnisliste:
+                file.write("%s\n" % item_cleaned)
 
 
 
@@ -103,24 +108,30 @@ def ner():
 
     nlp_de = spacy.load("de_core_news_md")
 
-    with open("data_in/Grimm_Hartwig_Moralistik_Die_französische_Revolution_241-243.txt", encoding="utf-8") as file:
-        data = file.read()
+    txt_paths = glob.glob("data_in/ner/*.txt")  # Save the (relative) paths of all .txt files in a list
+    print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
-    doc = nlp_de(data)
+    for path in txt_paths:
+        file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titelsuche" and .extension
 
-    for ent in doc.ents:
-        print(ent.text, ent.start_char, ent.end_char, ent.label_)
+        with open("data_in/ner/" + file_name + ".txt", encoding="utf-8") as file:
+            data = file.read()
 
+        doc = nlp_de(data)
 
-    with open("data_out/Grimm_Hartwig_Moralistik_Die_französische_Revolution_241-243_ner.txt", "w", encoding="utf-8") as file:
-        file.write("start \n")
         for ent in doc.ents:
-            file.write(str(ent.text) + ", " + str(ent.start_char) + ", " + str(ent.end_char) + ", " + str(ent.label_) + "\n")
+            print(ent.text, ent.start_char, ent.end_char, ent.label_)
+
+
+        with open("data_out/ner/"+file_name+"_ner.txt", "w", encoding="utf-8") as file:
+            file.write("start \n")
+            for ent in doc.ents:
+                file.write(str(ent.text) + ", " + str(ent.start_char) + ", " + str(ent.end_char) + ", " + str(ent.label_) + "\n")
 
 
 # ############ Funktionsaufrufe #########################
 
-# title_extraction()
+title_extraction()
 # titel_kuerzen()
-titelsuche()
-# ner()
+#titelsuche()
+#ner()
