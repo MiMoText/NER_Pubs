@@ -16,6 +16,7 @@ def title_extraction():
     print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
     for path in txt_paths:
+        file_name = os.path.splitext(os.path.basename(path))[0]
         with open("data_in/title_extraction/" + file_name + ".xml", encoding="utf-8") as file:
             gesamtertext = file.read()
 
