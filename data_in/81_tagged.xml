@@ -1,0 +1,790 @@
+<root>
+
+<document>
+<entry>
+<id>81.1</id>
+<ti>Les délices du sentiment, or The Passionate Lovers: in a sériés of letters which hâve recently passed between two celebrated characters, well known in Polite Life for their Virtues, Talents and Accomplishments, with a translation from the originals, written in cypher</ti>
+<det>
+<pl>London,</pl>
+<pb>J. MacGowan,</pb>
+<y>1781,</y>
+<f>in-8,</f>
+<p>176p.</p>
+</det>
+<bib>BMt</bib>
+<ex>Chaque lettre, donnée d’abord en français, est suivie de la traduction anglaise.</ex>
+<res>
+<r_p>Lfittres;</r_p>
+<r_pl>Angleterre. Naples, Rome, Florence .. ..Auguste, Emilie;</r_pl>
+<r_c>amours contrariées;</r_c>
+<r_s>sensibilité effrénée.</r_s>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.2</id>
+<ti>Histoire d’Alexis Goodman, tirée des manuscrits du feu t? capitaine Cook, traduite de l’anglais</ti>
+<det>
+<pl>Genève,</pl>
+<y>1781,</y>
+<f>in-8,</f>
+<p>40p.</p>
+</det>
+<bib>NNt</bib>
+<ex>Nous n’avons pu retrouver un original anglais.</ex>
+<res>
+<r_p>Ire personne;</r_p>
+<r_pl>Calais, Genève, Italie, Etats-Unis, Chine...;</r_pl>
+<r_n>Alexis Goodman, Clémence de St. Amour, milady Loveknoth, Adrienne, Ernestine;</r_n>
+<r_c>le héros, partout trahi par les femmes, reste enfin près d’Ernestine, grâce à l’influence de l’incomparable Adrienne; discussions philosophiques et morales.</r_c>
+</res>
+<ae>
+<ae_ae>Autre édition:</ae_ae>
+<ae_se>- ds Récréations de philosophie et de morale par M. le chevalier de Pougens, Yverdon &amp; Paris, Debure l’aîné, 1784, 4 part, in-12 (Bibl. Monglondt, Q)81.3</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.3</id>
+<au>
+<a>?</a>
+<trd>trad. par Henri RENFNER 1</trd>
+</au>
+<ti>Histoire de miss Elise Warwick, traduite de l’anglois</ti>
+<det>
+<pl>Amsterdam,</pl>
+<pb>D.J. Changuion</pb>
+<pl>&amp; Paris,</pl>
+<pb>Mérigot,</pb>
+<y>1781,</y>
+<f>2 part, pet. in-8,</f>
+<p>180, 163p.</p>
+</det>
+<bib>At AL 1781 IV 182-200; CatH xlvü 1781 Rochedieu Streeter</bib>
+<ex>Q donne: Mémoires de miss Elise Warwick, Amsterdam, 1783, 2 part. in-8. Ce sont, semble-t-il, des renseignements inexacts plutôt que l’indication d’une nouvelle édition.</ex>
+<tr>Trad. de History of Eliza Warwick, 1778.</tr>
+<res>
+<r_p>Lettres, avec récit principal ire personne (mémoires);</r_p>
+<r_pl>Angleterre, Irlande;</r_pl>
+<r_n>la marquise de Huntley, milord Huntley, miss Elise Warwick, le duc de Beauvarise, le colonel Temple;</r_n>
+<r_c>intrigues mondaines et aventures romanesques;</r_c>
+<r_s>sensibilité.</r_s>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.4</id>
+<au>
+<a>?</a>
+<trd>trad. par J.-M. DIGEON</trd>
+</au>
+<s>ct</s>
+<ti>Nouveaux contes turcs et arabes, précédés d’un abrégé chronologique de l’histoire de la maison ottomane &amp; du gouvernement de l’Egypte, &amp; suivis de plusieurs morceaux de poésie &amp; de prose, traduits de l’arabe &amp; du turc, par M. Digeon, secrétaire-interprète du Roi &amp; correspondant de l’Académie des inscriptions &amp; belles-lettres</ti>
+<det>
+<pl>Paris,</pl>
+<pb>Dupuis,</pb>
+<y>1781,</y>
+<f>2t. in-12. viii-t- 347,</f>
+<p>278p.</p>
+</det>
+<bib>A BM BNt AL 1781 111 115-126; CatH xii 1781; JP 20.iv.81 Delcro Q</bib>
+<res>
+<r_st>/, Abrégé chronologique... (sans éléments romanesques). Il, 1-54, Halil, conte turc; 55-120, Alaeddin, conte arabe; 121-144, Le derviche, conte turc; 145-160, Le cady et le voleur, conte arabe; 161-164, Le marchand de Cliirvan, conte turc.</r_st>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.5</id>
+<bib>Opuscules d’un free-thinker In-8 CorrL nov. 1781</bib>
+<ex>Selon CorrL, cet ouvrage contient ‘un petit roman intitulé VHistoire de Mlle Le R***’.</ex>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.6</id>
+<ti>Paris vu tel qu’il est</ti>
+<det>
+<pl>Londres &amp; Paris,</pl>
+<pb>libraires qui vendent les nouveautés,</pb>
+<y>1781,</y>
+<f>in-8,</f>
+<p>31p.</p>
+</det>
+<bib>BNt</bib>
+<res>
+<r_p>3e personne;</r_p>
+<r_pl>province, Paris;</r_pl>
+<r_n>la Baronne, le Baron, le chevalier Dorimont, l’Abbé;</r_n>
+<r_c>visite à Paris de deux provinciaux, critique des moeurs;</r_c>
+<r_s>ton satirique.</r_s>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.7</id>
+<ti>Recueil de nouveaux contes amusants c</ti>
+<det>
+<pl>Londres &amp; Paris,</pl>
+<pb>Belin,</pb>
+<y>1781,2</y>
+<f>part, in-12,</f>
+<p>216, 219p.</p>
+</det>
+<bib>At CatH xiü 1781; CoitL avril 1781; JP 26.iü.81 Delcro</bib>
+<res>
+<r_st>I, 1-57, Le sage heureux de l’être; 38-70, Grâces au Mercure de France; 71-84, L’heureuse banqueroute, nouvelle angloise; 85-129, Le solitaire des Ardennes, anecdote intéressante; 130-145, Azakia, anecdote huronne; 146-177, Cléomire et Dalia, nouvelle gauloise; 178-193, L "épreuve dangereuse, conte moral: 194-206, Les deux amis, historiette; 207-216, Sidney, anecdote angloise. II, 1-41, Les quiproquo ou tous furent contents, nouvelle; 42-45, Histoire angloise; 46-54, Cécile ou l’amour gaulois, anecdote de ta cour de Sigebert, roi d’Austrasie; 55-76, Les deux prix, conte tiré d’un manuscrit grec; 77-86, Le bonheur; 87-108, Silvestre, ce n’est pas toul-à-fait un conte; 109-140, L’amour tel qu’il est, conte tiré du grec; 141-162, L’étonnement réciproque, nouvelle orientale; 163-187. Les Lamies, conte gaulois; 188-204, Giaffar et Abassah, trait d’histoire arabe; 205-214, L’amour; 215-219, La bonhommie, historiette.</r_st>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.8</id>
+<ti>Vituline ou la courtisane insolente, conte moral</ti>
+<det>
+<pl>Berlin,</pl>
+<y>1781,</y>
+<f>in-8,</f>
+<p>14p.</p>
+</det>
+<bib>BMt</bib>
+<res>
+<r_p>3e personne;</r_p>
+<r_pl>Paris;</r_pl>
+<r_n>Fanchon Vituline, fille de M. Vitulin. Pierrot, Pede-plato, Waxfort;</r_n>
+<r_c>égarements de Vituline, qu’elle expie à l’Hôpital.</r_c>
+</res>
+<ae>
+<ae_ae>Autre édition:</ae_ae>
+<ae_se>- Berlin, 1782, in-12 (Gay)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.9</id>
+<au>
+<a>ARNAUD, François-Thomas-Marie de Baculard d’</a>
+</au>
+<ti>Suite des nouvelles historiques par M. d’Arnaud, tome second, troisième nouvelle, Le Comte de Strafford</ti>
+<det>
+<pl>Paris,</pl>
+<pb>Delalain,</pb>
+<y>1781,</y>
+<p>pp. 283-404</p>
+</det>
+<bib>BNt AL 1781 V 71, VI 49-71 ; CatH xxxü 1781 ; JP 24.vi, 2. viü. 81 Delcro Inklaar</bib>
+<ex>Pour la série des Nouvelles historiques, v. 74.8</ex>
+<res>
+<r_p>3e personne;</r_p>
+<r_pl>Angleterre (époque de Charles 1er);</r_pl>
+<r_n>Thomas Wentworth, Strafford, Charles;</r_n>
+<r_c>intrigues politiques;</r_c>
+<r_s>sensibilité.</r_s>
+</res>
+<ae>
+<ae_ae>Autres éditions:</ae_ae>
+<ae_se>- V. 74.8.</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.10</id>
+<au>
+<a>BEAUHARNAIS, Fanny de</a>
+</au>
+<ti>L’aveugle par amour, par l’auteur de Stéphanie &amp; de l’Abailard supposé</ti>
+<det>
+<pl>Amsterdam &amp; Paris,</pl>
+<pb>P. Fr. Gueffier,</pb>
+<y>1781,</y>
+<f>in-8,</f>
+<p>viii + 259p.</p>
+</det>
+<bib>A BNt JP 1 l.vi, 6.vii.81 B Delcro Gay Momet Q Turgeon</bib>
+<res>
+<r_p>3e personne;</r_p>
+<r_pl>Eugénie,</r_pl>
+<r_n>le duc d’Ossane, Mlle d’Omelle, Mlle de Lursal, Alaminte;</r_n>
+<r_c>intrigue sentimentale, malheurs;</r_c>
+<r_s>sensibilité effrénée.</r_s>
+</res>
+<ae>
+<ae_ae>Autres éditions:</ae_ae>
+<ae_se>- Liège, Lemarié, 1781 (MH) — Paris &amp; Liège, Lemarié, 1782, in-12, 343p. (BMt, Q, Turgeon) - ds L’Abailard supposé, Lyon, 1791, in-12 (Turgeon). V. 80.11 - Paris, 1798 (Q, Turgeon)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.11</id>
+<au>
+<a>BECCARY, madame</a>
+</au>
+<ti>Mémoires de Fanny Spingler, histoire angloise par madame Beccary</ti>
+<det>
+<pl>Paris,</pl>
+<pb>Knapen et fils,</pb>
+<y>1781,</y>
+<f>2t. in-12,</f>
+<p>viii + 274, 202p.</p>
+</det>
+<bib>A BNt AL 1780 VIII 143, 1781 II 51-69; CatH lii 1780; JP 7.i, 9.V.81 Delcro Gay Q Streeter (traduction supposée)</bib>
+<res>
+<r_p>Ire personne (journal);</r_p>
+<r_pl>Angleterre;</r_pl>
+<r_n>sir Dorblac, lady Malgarde, Claire, miss Fanny, mylord Melville;</r_n>
+<r_c>malheurs d’une jeune femme, intrigue sentimentale;</r_c>
+<r_s>sensibilité, mélancolie.</r_s>
+</res>
+<ae>
+<ae_ae>Autres éditions:</ae_ae>
+<ae_se>- Les dangers de la calomnie ou mémoires .... Neuchâtel, Société typographique, 1781, in-12, iv + 354p. (At, BNt, Gay, Q) — Les amours d’une jeune Angloise nommée Fanny Spingler, Londres, 1791,2t. in-12, ?, 202p. (BNt)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.12</id>
+<au>
+<a>BENOIST, Françoise-Albine Puzin de La Martinière, madame</a>
+</au>
+<ti>Les erreurs d’une jolie femme ou l’Aspasie françoise</ti>
+<det>
+<pl>Bruxelles &amp; Paris,</pl>
+<pb>veuve Duchesne,</pb>
+<y>1781,</y>
+<f>2 part, in-12,</f>
+<p>228, 229-467p.</p>
+</det>
+<bib>A BM BNt AL 1782 IV 136-140; CatH xvii 1781 ; CorrL juin 1781; JP 30.iv.81, l.iü.82 B Delcro Gay Q</bib>
+<res>
+<r_p>Ire personne;</r_p>
+<r_pl>Paris;</r_pl>
+<r_n>la marquise d’Arbois, le Baron, Germeuil, Monsieur de B</r_n>
+<r_c>..aventures galantes d’une fille d’artisans adoptée par une marquise.</r_c>
+</res>
+<ae>
+<ae_ae>Autre édition:</ae_ae>
+<ae_se>— Les aveux d’une jolie femme, Bruxelles &amp; Paris, veuve Duchesne, 1782, 2 part, in-12 (A, B, Gay, Q)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.13</id>
+<au>
+<a>BRIDEL, Jean-Louis</a>
+</au>
+<ti>Les infortunes du chevalier de la Lande, mort à</ti>
+<det>
+<pl>Lausanne le 1 février 1778 Paris,</pl>
+<y>1781,</y>
+<f>in-12,</f>
+<p>vüi + 112p.</p>
+</det>
+<bib>At BMt Monglond</bib>
+<res>
+<r_p>Lettres;</r_p>
+<r_pl>Nord de la France;</r_pl>
+<r_n>Talobre, Mr. d’Adhemar, Henriette;</r_n>
+<r_c>malheurs d’un jeune militaire;</r_c>
+<r_s>sensibilité passionnée, nature.</r_s>
+</res>
+<ae>
+<ae_ae>Autres éditions:</ae_ae>
+<ae_se>- Lausanne, 1781, in-8 (B, Q) - Paris, MDCCLXXXXIII (pour 1783?), in-8, viii + 112p. (BNt, Mornet)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.14</id>
+<au>
+<a>CESAROTTI, abbé Melchior et un AUTEUR INCONNU et</a>
+<trd>trad. par madame Marie-Geneviève-Charlotte Darius, madame THIROUX D’ARCONVILLE</trd>
+</au>
+<ti>Les Samiens, conte, traduit de l’anglois, le Phoenix, apologue arabe, Calliste et Philétor, fragment d’une nouvelle greque (sic), traduits l’un et l’autre de l’italien</ti>
+<det>
+<pl>Paris,</pl>
+<pb>Knapcn et fils,</pb>
+<y>1781,</y>
+<f>in-12,</f>
+<p>iii + 174p.</p>
+</det>
+<bib>A BNt AL 1781 I 352; CatH xvii 1781; JP 24.iv.81 Q Rochedieu Streeter</bib>
+<tr>Trad. de The Samiens, a Taie, 1771,</tr>
+<ti>par un auteur inconnu et de La fenice o la vita mistica et de Callista e Filetore, contes en prose par Cesarotti.</ti>
+<res>
+<r_st>Pp. 1-101, Les Samiens. conte; 105-129, Le Phoenix ou la vie mistique, apologue arabe tiré d’un manuscrit grec trouvé dans les ruines de Palmyre &amp; publié à l’occasion de la profession de N. D. Morosina Grimant; 133-174, Calliste et Philétor, fragment d’une nouvelle grecque.</r_st>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.15</id>
+<au>
+<a>COLLEVILLE, Anne-Hyacinthe de Saint-Léger, dame de</a>
+</au>
+<ti>Lettres du chevalier de Saint-Alme et de mademoiselle de Melcourt, par mademoiselle de ***</ti>
+<det>
+<pl>Amsterdam,</pl>
+<pb>Changuion</pb>
+<pl>&amp; Paris,</pl>
+<pb>De Lormel, veuve Duchesne, Esprit,</pb>
+<y>1781,</y>
+<f>in-12,</f>
+<p>242p.</p>
+</det>
+<bib>A BNt CatH xvi 1781; CorrL juin 1781; JP 15, 27.iv.81 B Delcro Gay Momet 0</bib>
+<res>
+<r_p>Lettres;</r_p>
+<r_pl>France:</r_pl>
+<r_n>Rosette de Melcourt, le chevalier de Saint-Alme, madame d’Orbi;</r_n>
+<r_c>intrigue sentimentale;</r_c>
+<r_s>sensibilité.</r_s>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.16</id>
+<au>
+<a>DUBOIS-FONTANELLE, Joseph-Gaspard</a>
+</au>
+<ti>Nouveaux mélanges sur différens sujets, contenant des essais dramatiques, philosophiques et littéraires</ti>
+<det>
+<pl>Bouillon,</pl>
+<y>1781,</y>
+<f>3t. in-8</f>
+</det>
+<bib>Gay Michaud Q</bib>
+<ex>Selon Q, c’est le même ouvrage que Théâtre et oeuvres philosophiques, 1785 (v. Autres éditions, ci-dessous). Le troisième volume de ce dernier ouvrage comporte des contes en prose. Selon la préface, ces contes ont été écrits pour le Mercure entre 1768 et 1770; et il y est également question d’une première édition faite à Bouillon en 1781. Nous reproduisons la table des matières de l’édition de 1785:</ex>
+<res>
+<r_st>IU, 1-28, Le séducteur; 29-40, Les deux Anglois; 41-53, Saeb ou le rêveur; 54-62, L’amitié trahie, nouvelle angloise; 63-78, L’héroïsme du remords, nouvelle espagnole; 79-81, L’école de la piété filiale, nouvelle orientale; 82-101, Il étoit temps ou la reconnaissance à propos; 102-112, Les souhaits, conte arabe; 113-131, La probité villageoise; 122-128, Abouzaide; 129-131, La leçon; 132-135. Ardostan; 136-159, Emilie ou les voeux forcés; 160-164, Les diables ramoneurs; 165-167, Le rendez-vous; 168-171, Le joueur extraordinaire, anecdote angloise; 172-176, C’est ce qu’on voit toujours: 177-180, Entendons-nous; 181-192, La gazette; 193-204, C’est l’histoire de bien d’autres ou, si l’on veut, le petit cousin du grand voyageur Scarmentado; 205-213, L’abus et l’usage des richesses, conte indien Isujet emprunté au Rambler/; 214-221, La journée de l’indigent; 222-230, Le gentilhomme et le vannier; 231-238, Le philosophe villageois; 239-242, Nourschivan, conte indien.</r_st>
+</res>
+<ae>
+<ae_ae>Autre édition:</ae_ae>
+<ae_se>— Théâtre et oeuvres philosophiques, égayés de contes nouveaux dans plus d’un genre, Londres &amp; Paris, 1785, 3t. in-8 (BNf, B, Gay, Q)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.17</id>
+<au>
+<a>DUFRESNES</a>
+</au>
+<ti>Idylles et pièces fugitives trouvées dans un hcrmitage au pied du Mont Ste. Odile</ti>
+<det>
+<pl>Paris,</pl>
+<pb>Durand, veuve Duchesne</pb>
+<pl>&amp; Strasbourg,</pl>
+<pb>les frères Gay,</pb>
+<y>1781,</y>
+<f>in-12,</f>
+<p>55+ 162p.</p>
+</det>
+<bib>BNt CatH xiii 1781 B Gay</bib>
+<res>
+<r_st>Pp. 1-54, Idylles: petits poèmes en prose, dont certains comportent des éléments narratifs; 95-112, Pingrenon, histoire orientale. Les autres morceaux sont en vers</r_st>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.18</id>
+<au>
+<a>DUVERNET, abbé Théophile-Imarigeon</a>
+</au>
+<ti>Monsieur Guillaume ou le disputeur</ti>
+<det>
+<y>1781,</y>
+<f>in-8,</f>
+<p>59p.</p>
+</det>
+<bib>BMt BNt B 0</bib>
+<ex>Selon la préface, c’est une version rajeunie du Barbon, 1648, de Jean-Louis Guez de Balzac. Il y a cependant de très considérables différences entre les deux ouvrages. Une suite a paru en 1788, avec le titre: Les dîners de M. Guillaume (y. 88.49).</ex>
+<res>
+<r_p>3e personne;</r_p>
+<r_pl>M. Guillaume, l’abbé Printemps, Alix;</r_pl>
+<r_c>récit comique d’un homme qui contredit toujours son interlocuteur, critiques de personnalités connues;</r_c>
+<r_s>ton satirique.</r_s>
+</res>
+<ae>
+<ae_ae>Autre édition:</ae_ae>
+<ae_se>- Amsterdam, 1781, in-8, 116p. (BN)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.19</id>
+<au>
+<a>LA PLACE, Pierre-Antoine</a>
+</au>
+<bib>At(7t.) BMt BNt(7t.) CorrL janv. 1781, fév. 1784; JL x 1785 B Cobb Delcro Gay Q</bib>
+<res>
+<r_st>En 1785 les premiers volumes semblent avoir été remis à jour avec l’adresse: Bruxelles &amp; Paris, Prault (MdBP). Anecdotes historiques pour ta plupart, mais certains morceaux se rapprochent du genre romanesque: II, 205-208, Le fou sensé, conte traduit de l’anglois de Gower; 367-378, Histoire de Ray nard de Choiseul &amp; d’Alix de Dreux; 406-417, Anecdote personne. III, 16-22, Fatalité singulière, anecdote française; 77-86, Hélas! qui peut toujours répondre de soi-méme? anecdote picarde; 191-201, Le trésor enlevé, anecdote picarde; 319-328, La courtisane infortunée, anecdote flamande; 350-357, Le fils religieux, anecdote anglaise. IV, 32-37, Le vieux garçon mort en cessant de l’être, anecdote française; 53-67, Origine de la fortune du lord ***, anecdote irlandaise; 107-113, La victime de l’amour et de la probité, anecdote très-moderne; 264-272, L’héroïne languedocienne; 385-388, Leçon utile, anecdote française. V, 226-238, La perle dans le fumier, anecdote historique &amp; bourgeoise; 247-263, On se fait à tout, anecdote françoise; 500-510, Gango &amp; Durné, anecdote historique mogole. VI, 108-117, Le ménage poli, anecdote historique, angloise &amp; moderne; 219-237, Anecdote angloise; 308-315, Le mort vivant, anecdote angloise. VH, 20-37, La force de l’imagination, anecdote françoise et véritable; 94-97, Le bon père, anecdote anglaise; 223-228, Le comble de la vanité, anecdote anglaise: 240-252, Le vivant cru mort; 421-428, Anecdote française; 456-466, L’habit verd et l’habit brun, nouvelle anglaise; 497-508, Le vrai courage, anecdote anglaise. VIII, 157-168, Anecdotes historiques concernant le grand-visir Topal-Osman; 219-225, L’intrépide valet picard, anecdote française; 356-364, Les grands événements par les petites causes, anecdote historique espagnolle (sic) et françoise; 385-403, Anecdote anglaise concernant le suicide; 404-407, Le soldat heureux, anecdote françoise; 408-418, L’intrigante angloise; 418-425, Que de crimes impunis! anecdote angloise.</r_st>
+</res>
+<ae>
+<ae_se>Pièces intéressantes et peu connues pour servir à l’histoire Neuchâtel, imprimerie de la Société typographique, 1781 (t.I) — Bruxelles, 1784 (t.II) — Bruxelles &amp; Paris, Prault, 1785 (t.III-IV) - 1787 (t.V)— 1788 (t.VI) — 1790 (t. VII-VIII), 8 t. in-12, xii + 429, 484, 495, 486, 516, 516, viii + 526, 504p. ### Autre édition: — Maestricht, J.E. Dufour et Phil. Roux. 1786-1790, 8 t. in-12 (BM, Gay)</ae_se>
+</ae></entry>
+</document>
+
+<document>
+<entry>
+<id>81.20</id>
+<au>
+<a>LE CANUT Raoul, premier duc de</a>
+</au>
+<ti>Normandie ou la conquête de la Neustrie par les Scandinaves</ti>
+<det>
+<pl>Paris,</pl>
+<pb>Mérigot le jeune,</pb>
+<f>2t. in-12,</f>
+<p>198, 224p.</p>
+</det>
+<bib>Lausannet AL 1781 VIII 179-207 Q</bib>
+<ex>Selon AL, ‘l’auteur a voulu faire un poëme en prose ou un roman poétique dans le goût de Télémaque’.</ex>
+<res>
+<r_p>3e personne;</r_p>
+<r_pl>France, Jersey;</r_pl>
+<r_n>Raoul, l’évêque Francon, Harcour, le magicien Hydar;</r_n>
+<r_c>aventures guerrières, éléments magiques et allégoriques.81.21</r_c>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.21</id>
+<au>
+<a>LEGRAND D’AUSSY, le père Pierre-Jean-Baptiste</a>
+</au>
+<ti>Contes dévots, fables et romans anciens pour servir de suite aux fabliaux, par M. Le Grand</ti>
+<det>
+<pl>Paris,</pl>
+<pb>chez l’auteur</pb>
+<pl>&amp; pour les pays étrangers,</pl>
+<pb>chez Dufour, libraire à Mastricht,</pb>
+<y>1781,</y>
+<f>in-8,</f>
+<p>xlvi + 400p.</p>
+</det>
+<bib>BNt AL 1782 IV 325-330; CorrL juin 1782; JP 3O.i.81, 19.iv.8l</bib>
+<res>
+<r_c>Il s’agit d’une suite des Fabliaux ou contes du Xlle et du XUIe</r_c>
+<r_st>siècle, 1779 (v.79.20). Contes dévots et fables du moyen âge. en prose. Sous la rubrique ’romans’, on ne trouve que Parténopix, comte de Blois, roman de férié (sic), ’tiré d’un manuscrit de la Bibliothèque de Saint-Germain-des-Prés’.</r_st>
+</res>
+<ae>
+<ae_ae>Autres éditions:</ae_ae>
+<ae_se>- V. 79.20</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.22</id>
+<au>
+<a>LOQUET, Marie-Françoise</a>
+</au>
+<s>m</s>
+<ti>Entretiens d’Angélique, pour exciter les jeunes personnes du sexe à l’amour &amp; à la pratique de la vertu, par une jeune demoiselle</ti>
+<det>
+<pl>Paris,</pl>
+<pb>B. Morin,</pb>
+<y>1781,</y>
+<f>in-12,</f>
+<p>viii + 470p.</p>
+</det>
+<bib>BNt CatH xliv 1781 B Q</bib>
+<ex>Les entretiens de Clothilde, 1788, sont une suite de cet ouvrage (v. 88.82).</ex>
+<res>
+<r_c>En marge: dialogues édifiants entre Angélique et ses amies (éléments romanesques dans la présentation des personnages).</r_c>
+</res>
+<ae>
+<ae_ae>Autre édition:</ae_ae>
+<ae_se>- Paris, B. Morin, 1782, in-12, viii + 472p. (BM, BN)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.23</id>
+<au>
+<a>LOQUET, Marie-Françoise</a>
+</au>
+<ti>Voyage de Sophie et d’Eulalie au palais du vrai bonheur, ouvrage pour servir de guide dans les voies du salut, par une jeune demoiselle</ti>
+<det>
+<pl>Paris,</pl>
+<pb>Charles-Pierre Berton,</pb>
+<y>1781,</y>
+<f>in-12,</f>
+<p>x + 451p.</p>
+</det>
+<bib>BNt CatH li 1780; JP 19.xii.80 B Delcro Q</bib>
+<res>
+<r_p>3e personne;</r_p>
+<r_pl>Sophie, la</r_pl>
+<r_n>Grâce. Eulalie, le Saint-Désir, la Ferveur, la Pureté d’Jntention;</r_n>
+<r_c>allégorie de la vie religieuse;</r_c>
+<r_s>intentions édifiantes.</r_s>
+</res>
+<ae>
+<ae_ae>Autre édition:</ae_ae>
+<ae_se>- 2e édition, Paris, C.-P. Berton, 1784, in-12, xxiv+455p. (BN)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.24</id>
+<au>
+<a>LUCIEN DE SAMOSATE</a>
+<trd>trad. par l’abbé Guillaume nt MASSIEU</trd>
+</au>
+<ti>Œuvres de Lucien, traduction nouvelle par M. l’abbé Massieu</ti>
+<det>
+<pl>Paris,</pl>
+<pb>Moutard</pb>
+<y>1781 (t.l-III)— 1787 (t.IV-VI),</y>
+<f>6 t. in-12,</f>
+<p>liii + 487, 552, x + 541, 551, 580, 545p.</p>
+</det>
+<bib>BNt AL 1781 II 289-334 Q</bib>
+<ex>Selon le catalogue de la BN, les œuvres de Lucien ont été publiées en français en 1582, 1583, 1606 par Bretin, en 1613 par Baudouin. Pour la version de Perrot d’Ablancourt, v. 55.R49. Une nouvelle traduction par J.-N. Belin de Ballu a paru en 1788 (v. 88.85).</ex>
+<res>
+<r_st>I, Harangues; Dialogues des morts; Autres dialogues. H, Dialogues. III. Dialogues et traités; Dialogues des dieux. IV. Les Saturnales, &amp;c. V. Toxaris, &amp;c. VI. Histoire véritable; L’âne ou la métamorphose; Dialogue des courtisanes.</r_st>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.25</id>
+<au>
+<a>MAYDIEU, abbé Jean</a>
+</au>
+<ti>L’honnête homme, dédié à Mme la comtesse d’H***, par M. l’abbé Maydieu, chanoine de l’église de Troyes en Champagne</ti>
+<det>
+<pl>Paris,</pl>
+<pb>Mérigot le jeune, Barrois le jeune, Lesclapart,</pb>
+<y>1781,</y>
+<f>2 part, in-12,</f>
+<p>334, 335-607p.</p>
+</det>
+<bib>BNt AL 1781 Vil 66-71; JP 28.xi.81 Q</bib>
+<res>
+<r_p>Ire personne;</r_p>
+<r_pl>Paris;</r_pl>
+<r_n>Gottesman (menuisier). le vicomte de ***, Julien, la Violette;</r_n>
+<r_c>un gentilhomme de province, retenu à Paris pour un procès, loge chez un homme doué de toutes les vertus...;</r_c>
+<r_s>prétentions moralisatrices.</r_s>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.26</id>
+<au>
+<a>MAYEUR DE SAINT-PAUL, François-Marie</a>
+</au>
+<s>m</s>
+<ti>Le désœuvré ou l’espion du boulevard du Temple</ti>
+<det>
+<pl>Londres,</pl>
+<y>1781,</y>
+<f>in-8,</f>
+<p>118p.</p>
+</det>
+<bib>BNt B Delcro Gay Q</bib>
+<res>
+<r_c>En marge: récit d’une promenade aux boulevards avec commentaires sur les cafés, les théâtres et les acteurs.</r_c>
+</res>
+<ae>
+<ae_ae>Autres éditions:</ae_ae>
+<ae_se>— Londres, 1782, in-12, 114p. (BM+, BN, Gay). A donne aussi une édition pour cette année. — Le chroniqueur désoeuvré ou l’espion ... deuxième édition, revue, corrigée et augmentée, Londres, 1782, in-12, 176p. (BMt). Pp. 145-176, Post-scriptum (anecdotes scandaleuses sur des acteurs, etc.). — Le chroniqueur.. . Londres, 1782, 120p. (NjP) — Le chroniqueur..., Londres, 1782, 126p. (MH) - Londres, 1783, 5+ 103p. (CtY)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.27</id>
+<au>
+<a>MIRABEAU, Honoré-Gabriel de Riqueti, comte de</a>
+</au>
+<ti>La morale des sens ou l’homme du siècle, extrait des mémoires de M. le chevalier de Barville, rédigés par M. M ... D.M.</ti>
+<det>
+<pl>Londres,</pl>
+<y>1781,</y>
+<f>in-12,</f>
+<p>244p.</p>
+</det>
+<bib>Drujon Gay</bib>
+<ex>La version de cet ouvrage publiée en 1882 par Paul Lacroix (BNt, BMt) cite cette première édition, ainsi que celle de 1792. Selon cet éditeur, l’auteur ne serait pas le comte de Mirabeau, mais le vicomte, son frère. L’ouvrage ne fait pas partie de l’édition des Œuvres du comte de Mirabeau de 1827.</ex>
+<res>
+<r_p>Ire personne;</r_p>
+<r_pl>Paris;</r_pl>
+<r_n>Eglé, Bertigini, Babet, Florval;</r_n>
+<r_c>aventures libertines.</r_c>
+</res>
+<ae>
+<ae_ae>Autre édition:</ae_ae>
+<ae_se>- ... extrait des mémoires de Mr. le chevalier de Bar***, rédigés par Mr. M. . . D. M., Londres, 1792, in-12, 144 (pour 244) p. (BMt, B, Drujon, Gay)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.28</id>
+<au>
+<a>ORMOY, Charlotte Chaumet, madame d’</a>
+</au>
+<ti>Le lama amoureux, conte oriental</ti>
+<det>
+<pl>Londres &amp; Paris,</pl>
+<pb>chez les marchands de nouveautés,</pb>
+<y>1781</y>
+</det>
+<bib>AL 1781 V</bib>
+<ex>180-197 Nous n’avons pu voir aucun exemplaire de cet ouvrage. Q donne ce titre sans date. Notre description est fondée sur le compte rendu de l’AL.</ex>
+<res>
+<r_p>3e personne;</r_p>
+<r_pl>Arabie;</r_pl>
+<r_n>Abimaleck, Abadon, Osmin, Asa;</r_n>
+<r_c>aventures romanesques (une princesse qui survit au massacre de sa famille est élevée par un prêtre dans un souterrain);</r_c>
+<r_s>intentions moralisatrices.</r_s>
+</res>
+<ae>
+<ae_ae>Autres éditions:</ae_ae>
+<ae_se>— Paris, Lamy, 71p. (JL iii 1783, JP 13.1.83) - La belle dans le souterrain ou le lama amoureux, Paris, Mérigot jeune, 1785, in-12, 71p. (B, Gay)</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.29</id>
+<au>
+<a>RÉTIF DE LA BRETONNE, Nicolas-Edme</a>
+</au>
+<ti>La découverte australe par un homme-volant ou le Dédale français, nouvelle très-philosophique, suivie de la Lettre d’un singe etc.</ti>
+<det>
+<pl>Leipsick &amp; Paris,</pl>
+<f>21. in-12,</f>
+<p>624, 422p.</p>
+</det>
+<bib>BM BNt CatH li 1781; JP 6.i.81 B Drujon Dufrenoy Gay Gove Q Rives Childs</bib>
+<ex>Le faux titre du premier volume donne la date: Œuvres posthumes de N** ** ***, oeuvre S. de, la Découverte australe ou les antipodes, avec une estampe à chaque fait principal, 1781. BUR 1784 nov., pp. 123-156, offre une analyse. Rives Childs: ‘La Découverte australe n’a paru que dans une seule édition. Cependant, les deux derniers volumes ont subi de tels changements, après des difficulties de la part de la censure et de la police, que l’édition cartonnée constitue un texte radicalement difterent de l’édition intégrale.’ Ces changements concernent les pièces détachées des derniers volumes (Bruxellest).</ex>
+<res>
+<r_p>Cadre Ire personne, avec récit principal 3e personne;</r_p>
+<r_pl>France, pays imaginaires;</r_pl>
+<r_n>Victorin, Christine, Herman tin;</r_n>
+<r_c>voyages imaginaires, aventures extraordinaires; thèmes philosophiques, théories pseudoscientifiques, critique des moeurs.</r_c>
+</res>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.30</id>
+<au>
+<a>ROUSSEAU, Jean-Jacques</a>
+</au>
+<ti>Œuvres posthumes de Jean-Jacques Rousseau ou recueil de pièces manuscrites pour servir de supplément aux éditions publiées pendant sa vie</ti>
+<det>
+<pl>Genève,</pl>
+<y>1781-1783,</y>
+<f>12t. in-8</f>
+</det>
+<bib>BMt BN(llt.) Sénelier</bib>
+<ex>T. 1, pp. 131-167, Le Lévite d’Ephraïm; pp. 169-185, Lettres à Sara. V. aussi 80.30. T. II, pp. 283-319, Otinde et Sophronie. tiré du Tasse. C’est la traduction, avec le texte italien, du commencement du second chant de La Gerusalemme liberata, 1581.</ex>
+<res>
+<r_c>Le Lévite d’Ephraïm: histoire biblique avec des réflexions moralisatrices. Lettres à Sara: quatre lettres d’un cinquantenaire amoureux d’une jeune fille.</r_c>
+</res>
+<ae>
+<ae_ae>Autres éditions:</ae_ae>
+<ae_se>Pour les éditions des Œuvres de Rousseau, v. 61.18.</ae_se>
+</ae>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.31</id>
+<au>
+<a>SHERIDAN, Frances Chamberlaine, Mrs Thomas</a>
+<trd>trad. par ?</trd>
+</au>
+<s>nt</s>
+<ti>La vie est un songe, historiette orientale, traduite du persan</ti>
+<det>
+<pl>Strasbourg,</pl>
+<pb>Amand (sic) Koenig,</pb>
+<y>1781,</y>
+<f>in-12,</f>
+<p>135p.</p>
+</det>
+<bib>At BNt Dufrenoy</bib>
+<tr>Trad. de Nourjahad, 1767.</tr>
+<ex>Cet ouvrage avait déjà été traduit en 1769, avec le titre: Nourjahad, histoire orientale. V. 69.62 pour d’autres détails.</ex>
+</entry>
+</document>
+
+<document>
+<entry>
+<id>81.32</id>
+<au>
+<a>USSIEUX, Louis d’</a>
+</au>
+<ti>Dubois et Gioconda, nouvelle corse</ti>
+<det>
+<pl>Paris,</pl>
+<pb>Brunet,</pb>
+<y>1781,</y>
+<f>in-8,</f>
+<p>61p.</p>
+</det>
+<bib>At BMt LV Gay Q</bib>
+<ex>C’est le onzième récit des Nouvelles françaises (v. 75.40).</ex>
+<res>
+<r_p>3e personne:</r_p>
+<r_pl>Corse:</r_pl>
+<r_n>Dubois, Gioconda. Pascoli, S. Clair;</r_n>
+<r_c>intrigue sentimentale et aventures militaires;</r_c>
+<r_s>sensibilité.</r_s>
+</res>
+</entry>
+</document>
+
+</root>
