@@ -33,8 +33,6 @@ def title_extraction():
 
 
 # ####### Werktitel kürzen #####################
-    #Note:  - Aus Werktitel.csv werden die Werktitel extrahiert, verkürzt, und Werktitel_short.csv hinzugefügt
-    #       - Nach ausführen dieser Funktion scheint titelsuche() aber nicht mehr zu funktionieren. Grund ist noch nicht bekannt.
 def titel_kuerzen():
     with open("data_in/Werktitel.csv", encoding="utf8") as file:
         data = file.readlines()
@@ -57,7 +55,7 @@ def titel_kuerzen():
     f = open("data_in/Werktitel_short.csv", "a", encoding="utf8")
     for item in list_titles_short2:
         f.writelines(str(item) + ",\n")
-    f.close() #
+    f.close()
 
 # ##################### Titelsuche #####################
 def titelsuche():
@@ -66,47 +64,43 @@ def titelsuche():
 
     data = re.escape(data)
     zeilenliste = data.split(chr(10))
-    print(zeilenliste)
-
-    # Zeilenliste2 enthält alle Titel der Bibliographie
-    # zeilenliste2 wird gesäubert
-    # Wiederholungen (die in Werktitel vorkommen) werden behandelt
-
-    zeilenliste2 = []
-    for item in zeilenliste:
-        item_escaped = re.escape(item)
-        item_cleaned = re.sub(",", "", item_escaped)
-        if item_cleaned not in zeilenliste2:
-            zeilenliste2.append(item_cleaned)
-
+   # print(zeilenliste)
 
     txt_paths = glob.glob("data_in/titelsuche/*.txt")  # Save the (relative) paths of all .txt files in a list
     print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
     for path in txt_paths:
-
         file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titelsuche" and .extension
+
         with open("data_in/titelsuche/" + file_name + ".txt", encoding="utf-8") as file:
             my_text = file.read()
+
         my_text = re.escape(my_text)
 
+    # Zeilenliste2 enthält alle Titel der Bibliographie
+    # zeilenliste2 wird gesäubert
+
+        zeilenliste2 = []
+        for item in zeilenliste:
+            item_escaped = re.escape(item)
+            item_cleaned = re.sub(",", "", item_escaped)
+            zeilenliste2.append(item_cleaned)
+
+        #print(zeilenliste2)
+
+
         ergebnisliste = []
-        for i in range(0, len(zeilenliste2)):
-            if zeilenliste2[i] != "":
-                ergebnis = re.findall(zeilenliste2[i], my_text)
-                if ergebnis:
-                    ergebnisliste.append(ergebnis[0])
+        #ergebnis = re.findall(zeilenliste2[0], my_text)
+        # print(ergebnis)
 
-        if len(ergebnisliste) > 0:
-            print(len(ergebnisliste),"Ergebnisse werden geschrieben für:",file_name)
-
-            with open("data_out/titelsuche/" + file_name +"_titel" ".txt","w", encoding="utf-8") as file:
-                for item in ergebnisliste:
-                    item = str(item)
-                    item = item.replace("\\", "")
-                    file.write("%s\n" % item)
-        else:
-            print("Keine Ergebnisse für:",file_name)
+        for i in range(len(zeilenliste)):
+            ergebnis = re.findall(zeilenliste2[i], my_text)
+            if ergebnis:
+                ergebnisliste.append(ergebnis)
+       # print(ergebnisliste)
+        with open("data_out/titelsuche/" + file_name +"_titel" ".txt","w", encoding="utf-8") as file:
+            for item in ergebnisliste:
+                file.write("%s\n" % item_cleaned)
 
 
 
@@ -138,7 +132,7 @@ def ner():
 
 # ############ Funktionsaufrufe #########################
 
-#title_extraction()
-#titel_kuerzen() -
+title_extraction()
+# titel_kuerzen()
 #titelsuche()
 #ner()
