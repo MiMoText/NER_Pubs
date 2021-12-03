@@ -1,8 +1,22 @@
 # Named Entity Recognition for Scholary Publications
 
-Input: Ordner data_in
-
+Input: data_in
 Output: data_out
+
+Usage: Execution via main.py
+contains functions:
+- (...)
+every function can be used independently
+if u execute main.py without changes it will use standard values and corpus from data_in
+
+Directory data in
+Subdirectories (in alphabetical order):
+- other_files
+- rdf
+- titelsuche #Achtung, das soll raus
+- txt_files
+- xml_files
+
 
 Es werden Funktionen für die eigentliche NER als auch für preprocessing
 und Titelsuche zur Verfügung gestellt.
