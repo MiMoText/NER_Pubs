@@ -73,19 +73,18 @@ def titlesearch():
     data = re.escape(data)
     rowlist = data.split(chr(10))
 
-    txt_paths = glob.glob("data_in/titelsuche/*.txt")  # Save the (relative) paths of all .txt files in a list
+    txt_paths = glob.glob("data_in/titlesearch/*.txt")  # Save the (relative) paths of all .txt files in a list
     print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
     for path in txt_paths:
-        file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titelsuche" and .extension
+        file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titlesearch" and .extension
 
-        with open("data_in/titelsuche/" + file_name + ".txt", encoding="utf-8") as file:
+        with open("data_in/titlesearch/" + file_name + ".txt", encoding="utf-8") as file:
             my_text = file.read()
 
         my_text = re.escape(my_text)
-
-    # Zeilenliste2 enthält alle Titel der Bibliographie
-    # zeilenliste2 wird gesäubert
+    # list of rows 2 contains all title appearing in bibliographic
+    # this list will be cleaned from characters which aren't letters or numbers
 
         zeilenliste2 = []
         for item in rowlist:
@@ -93,43 +92,32 @@ def titlesearch():
             item_cleaned = re.sub(",", "", item_escaped)
             zeilenliste2.append(item_cleaned)
 
-        #print(zeilenliste2)
-
-
         ergebnisliste = []
-        #ergebnis = re.findall(zeilenliste2[0], my_text)
-        # print(ergebnis)
-
         for i in range(len(rowlist)):
             ergebnis = re.findall(zeilenliste2[i], my_text)
             if ergebnis:
                 ergebnisliste.append(ergebnis)
-       # print(ergebnisliste)
-        with open("data_out/titelsuche/" + file_name +"_titel" ".txt","w", encoding="utf-8") as file:
+
+        with open("data_out/titlesearch/" + file_name +"_titel" ".txt","w", encoding="utf-8") as file:
             for item in ergebnisliste:
                 file.write("%s\n" % item_cleaned)
 
 
+# ############ Finding Named Entities ######################
 
-# ############ NE-Suche ######################
 def ner():
-
     nlp_de = spacy.load("de_core_news_md")
-
     txt_paths = glob.glob("data_in/ner/*.txt")  # Save the (relative) paths of all .txt files in a list
     print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
     for path in txt_paths:
-        file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titelsuche" and .extension
-
+        file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titlesearch" and .extension
         with open("data_in/ner/" + file_name + ".txt", encoding="utf-8") as file:
             data = file.read()
 
         doc = nlp_de(data)
-
         for ent in doc.ents:
             print(ent.text, ent.start_char, ent.end_char, ent.label_)
-
 
         with open("data_out/ner/"+file_name+"_ner.txt", "w", encoding="utf-8") as file:
             file.write("start \n")
@@ -140,6 +128,6 @@ def ner():
 # ############ Funktionsaufrufe #########################
 
 title_extraction()
-# titel_kuerzen()
-#titelsuche()
-#ner()
+# shorten_titles()
+# titlesearch()
+# ner()
