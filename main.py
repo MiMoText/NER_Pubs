@@ -2,15 +2,58 @@ import re
 import spacy
 import glob
 import os
+import rdflib
+
+
+# ######### Query rdf graph ###################
+# The bibliographic data is available as an rdf graph.
+# This funktion extracts author names and work titles from the graph
+
+def rdf_query():
+
+    # Lade den Bibliographie-Graphen
+    g = rdflib.Graph()
+    g.load("data_in/rdf/bibliographie.rdf")
+
+    query = ("""
+     PREFIX loc: <http://www.w3.org/2007/uwa/context/location.owl#>
+        PREFIX dct: <http://purl.org/dc/terms/>
+        PREFIX dcterms: <http://purl.org/dc/terms/>
+        PREFIX fabio: <http://purl.org/spar/fabio/>
+        PREFIX co: <http://purl.org/ontology/co/core#>
+        PREFIX biro: <http://purl.org/spar/biro/>
+        PREFIX frbr: <http://purl.org/vocab/frbr/core#>
+        PREFIX prism: <http://prismstandard.org/namespaces/basic/2.0/>
+        SELECT DISTINCT ?au ?ti 
+                            WHERE {
+                               ?expression dcterms:creator ?au . 
+                               ?expression j.0:title ?ti .                          
+
+
+
+                                } LIMIT 100""")
+
+    results = g.query(query)
+
+    print("====== RDF Query ======")
+    print("The query returned " + str(len(results)) + " results")
+
+    with open("data_out\\author_title.csv", "w", encoding="utf-8") as csvfile:
+        for row in results:
+            csvfile.write("%s is creator of %s" % row + "\n")
+
+    for row in results:
+        print("%s is creator of %s" % row)
+    g.close()
+
 
 # ###### Extract titles ###############
 # read xml-files, containing work titles
 # work title are tagged with <ti></ti>
 
-
 def title_extraction():
-    # creating list of files to extract
-    txt_paths = glob.glob("data_in/title_extraction/*.xml")  # Save the (relative) paths of all .txt files in a list
+    # creating list of files to extract titles from
+    txt_paths = glob.glob("data_in/title_extraction/*.xml")
     print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
     for path in txt_paths:
@@ -18,12 +61,12 @@ def title_extraction():
         with open("data_in/title_extraction/" + file_name + ".xml", encoding="utf-8") as file:
             gesamtertext = file.read()
 
-        # find tags
+        # find title tags
         titel = re.findall("<ti>(.*)</ti>", gesamtertext)
         print(titel)
 
         # write titles to file
-        # title file is written to "data in"-folder because it is just an intermediate step
+        # title file is written to "data in"-folder because this is just an intermediate step
         # TODO am besten sowohl in data in als auch in data out schreiben
         f = open("data_in/titles.csv", "a", encoding="utf8")
         for item in titel:
@@ -65,7 +108,6 @@ def shorten_titles():
 
 # ##################### Search for known titles in unknown files #####################
 
-
 def titlesearch():
     with open("data_in/titles_short.csv", encoding="utf-8") as file:
         data = file.read()
@@ -73,11 +115,11 @@ def titlesearch():
     data = re.escape(data)
     rowlist = data.split(chr(10))
 
-    txt_paths = glob.glob("data_in/titlesearch/*.txt")  # Save the (relative) paths of all .txt files in a list
+    txt_paths = glob.glob("data_in/titlesearch/*.txt")
     print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
     for path in txt_paths:
-        file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titlesearch" and .extension
+        file_name = os.path.splitext(os.path.basename(path))[0]
 
         with open("data_in/titlesearch/" + file_name + ".txt", encoding="utf-8") as file:
             my_text = file.read()
@@ -107,11 +149,11 @@ def titlesearch():
 
 def ner():
     nlp_de = spacy.load("de_core_news_md")
-    txt_paths = glob.glob("data_in/ner/*.txt")  # Save the (relative) paths of all .txt files in a list
+    txt_paths = glob.glob("data_in/ner/*.txt")
     print("{} text file(s) have been found. \n".format(len(txt_paths)))
 
     for path in txt_paths:
-        file_name = os.path.splitext(os.path.basename(path))[0]  # Path-string stripped of "data_in/titlesearch" and .extension
+        file_name = os.path.splitext(os.path.basename(path))[0]
         with open("data_in/ner/" + file_name + ".txt", encoding="utf-8") as file:
             data = file.read()
 
@@ -125,9 +167,17 @@ def ner():
                 file.write(str(ent.text) + ", " + str(ent.start_char) + ", " + str(ent.end_char) + ", " + str(ent.label_) + "\n")
 
 
-# ############ Funktionsaufrufe #########################
+# ############ Calling the functions #########################
+
+# To call functions just delete #
+# If you don't pass any function parameters default data from MimoText will be used.
+# TODO parameter für jede Funktion aufschreiben
+# todo aufschreiben was für Default MimoText-Daten das sind
+# am bester ist diese Info wohl im readme aufgehoben
+# darauf dann verweisen
 
 title_extraction()
 # shorten_titles()
 # titlesearch()
 # ner()
+# rdf_query()
