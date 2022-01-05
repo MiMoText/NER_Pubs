@@ -1,8 +1,9 @@
-import re
 import spacy
 import glob
 import os
 import rdflib
+import re
+from collections import Counter
 
 
 # ######### Query rdf graph ###################
@@ -166,6 +167,20 @@ def ner():
             for ent in doc.ents:
                 file.write(str(ent.text) + ", " + str(ent.start_char) + ", " + str(ent.end_char) + ", " + str(ent.label_) + "\n")
 
+def quantity_locations():
+    with open("./results_and_evaluation/annotated_by_hand/rieger_orte.txt", encoding="utf8") as my_file:
+        my_text = my_file.read()
+
+    orte = re.findall("\%.+?\s", my_text)
+    print(orte)
+
+    orte_sortiert = Counter(orte).most_common()
+    print(orte_sortiert)
+
+    with open("data_out/rieger_häufigkeit_orte_output.txt_häufigkeit_orte_output.txt", "w",
+              encoding="utf8") as output_file:
+        for item in orte_sortiert:
+            output_file.write(str(item) + ",\n")
 
 # ############ Calling the functions #########################
 
@@ -175,6 +190,7 @@ def ner():
 # todo aufschreiben was für Default MimoText-Daten das sind
 # am bester ist diese Info wohl im readme aufgehoben
 # darauf dann verweisen
+
 
 title_extraction()
 # shorten_titles()
