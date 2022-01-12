@@ -69,7 +69,7 @@ def title_extraction():
         # write titles to file
         # title file is written to "data in"-folder because this is just an intermediate step
         # TODO am besten sowohl in data in als auch in data out schreiben
-        f = open("data_in/titles.csv", "a", encoding="utf8")
+        f = open("data_in/other_files/titles.csv", "a", encoding="utf8")
         for item in titel:
             f.writelines(str(item) + "\n")
         f.close()
@@ -82,7 +82,7 @@ def title_extraction():
 
 def shorten_titles():
     # open input file
-    with open("data_in/titles.csv", encoding="utf8") as file:
+    with open("data_in/other_files/titles.csv", encoding="utf8") as file:
         data = file.readlines()
 
     # create list of shortened titles and print them to console
@@ -101,7 +101,7 @@ def shorten_titles():
 
     print(list_titles_short2)
 
-    f = open("data_in/titles_short.csv", "a", encoding="utf8")
+    f = open("data_in/other_files/titles_short.csv", "a", encoding="utf8")
     for item in list_titles_short2:
         f.writelines(str(item) + ",\n")
     f.close()
@@ -110,7 +110,7 @@ def shorten_titles():
 # ##################### Search for known titles in unknown files #####################
 
 def titlesearch():
-    with open("data_in/titles_short.csv", encoding="utf-8") as file:
+    with open("data_in/other_files/titles_short.csv", encoding="utf-8") as file:
         data = file.read()
 
     data = re.escape(data)
@@ -166,6 +166,7 @@ def ner():
             file.write("start \n")
             for ent in doc.ents:
                 file.write(str(ent.text) + ", " + str(ent.start_char) + ", " + str(ent.end_char) + ", " + str(ent.label_) + "\n")
+
 
 def quantity_locations():
     with open("./results_and_evaluation/annotated_by_hand/rieger_orte.txt", encoding="utf8") as my_file:
