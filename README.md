@@ -14,8 +14,6 @@ every function can be used independently
 if u execute main.py without changes it will use standard values and corpus from data_in
 
 Directories:
-# Subdirectories TODO
-# (vorher ausmisten)
 - data_in
 - data_out
 - results_and_evaluation
