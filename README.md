@@ -26,10 +26,3 @@ For regular named entities spacy was used. For extracting work titles a method s
 the MimoText corpus is provided.
 
 
-
-Werktitel_short enthält 9412 Titel der Bibliographie.
-Short: Die Titel wurden gekürzt indem Titelzusätze nach dem ersten Komma abgetrennt wurden,
-Beispiel: "Haupttitel, Erzählung über x" wird zu "Haupttitel"
-
-Werktitel_short_short enthält nur jeweils die zwei ersten Token eines Titels.
-Das erhöht die Anzahl relevanter Treffer, kann aber auch zu falsch positiven Ergebnissen führen. 
