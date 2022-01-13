@@ -1,8 +1,0 @@
-OPTIONAL { 
-				?expression j.0:creator ?author .
-				FILTER(datatype(?author) = xsd:string) .
-			}
-			OPTIONAL {
-				?expression j.0:title ?title .
-				FILTER(datatype(?title) = xsd:string) .
-			}
