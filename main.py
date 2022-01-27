@@ -4,6 +4,7 @@ import os
 import rdflib
 import re
 from collections import Counter
+from pathlib import Path
 
 
 # ######### Query rdf graph ###################
@@ -100,11 +101,13 @@ def shorten_titles():
         list_titles_short2.append(title_short2)
 
     print(list_titles_short2)
-
+    path_titles_short = "data_in/other_files/titles_short.csv"
     f = open("data_in/other_files/titles_short.csv", "a", encoding="utf8")
     for item in list_titles_short2:
         f.writelines(str(item) + ",\n")
     f.close()
+
+
 
 
 # ##################### Search for known titles in unknown files #####################
@@ -189,8 +192,6 @@ def quantity_locations():
 # If you don't pass any function parameters default data from MimoText will be used.
 # TODO parameter für jede Funktion aufschreiben
 # todo aufschreiben was für Default MimoText-Daten das sind
-# am bester ist diese Info wohl im readme aufgehoben
-# darauf dann verweisen
 
 
 title_extraction()
