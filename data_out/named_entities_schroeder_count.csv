@@ -1,0 +1,632 @@
+"start",,,,
+"﻿Kapitel XI C",,,,
+,0,14,"MISC",
+"Romans",67,73,"LOC",
+"Gesellschaft",,,,
+1,132,146,"ORG",
+"Marmontel",223,232,"LOC",
+"Rétif de la Bretonne",234,254,"LOC",
+"Bernardin de Saint-Pierre",,,,
+,259,285,"PER","falsch"
+"Marivaux",648,656,"PER","richtig"
+"Prévost",661,668,"PER","richtig"
+"französischen",1008,1021,"MISC",
+"englischen",1039,1049,"MISC",
+"Richardson",1084,1094,"PER","richtig"
+"französischer",1138,1151,"MISC",
+"Richardson",1176,1186,"PER","richtig"
+"Fielding",1397,1405,"PER","richtig"
+"sozialen",1468,1476,"MISC",
+"Ge-",,,,
+,1531,1535,"ORG",
+"universal",1604,1613,"ORG",
+"sagen.“1",1897,1905,"MISC",
+"“",2286,2287,"MISC",
+"Frankreich",2394,2404,"LOC",
+"Marmontels",2488,2498,"PER","richtig"
+"Cervantesschen Musternovellen",2723,2752,"MISC",
+"Marmontels",3257,3267,"PER","richtig"
+"Roman Bélisaire",3468,3483,"PER","teilrichtig"
+"citoyen“",3786,3794,"PER","falsch"
+"römischen",3813,3822,"MISC",
+"Justinian",3831,3840,"PER","richtig"
+"Bélisaire bettelnd",4246,4264,"PER","teilrichtig"
+"Den Sohn",4410,4418,"PER","falsch"
+"“",4879,4880,"MISC",
+"Der alte Mann",5039,5052,"MISC",
+"Romans",5775,5781,"MISC",
+"Bélisaire",5863,5872,"PER","richtig"
+"Bélisaire",6122,6131,"PER","richtig"
+"Zeit",6220,6224,"MISC",
+"soziale",6285,6292,"MISC",
+"Manon Lescaut",6574,6587,"MISC",
+"Der Abbé Prévost",6590,6606,"MISC",
+"Manon",6687,6692,"PER","?"
+"Grieux et de Manon Lescaut",6817,6843,"LOC",
+"Chevaliers Des Grieux",6883,6904,"LOC",
+"Manon Les caut’s",6909,6925,"MISC",
+"Tiberge",6932,6939,"MISC",
+"Des Grieux",6948,6958,"MISC",
+"Tiberge",7027,7034,"PER","?"
+"Sorbonne",7261,7269,"LOC",
+"Pariser Gericht",7278,7293,"LOC",
+"Ironie",7407,7413,"LOC",
+"Montesquieus",7432,7444,"PER","richtig"
+"Chevrier",7641,7649,"PER","richtig"
+"Le Colporteur",7665,7678,"MISC",
+"Der Kolporteur“",7687,7702,"MISC",
+"Der Steuerpächter schlürft das Blut der Völker",7715,7761,"MISC",
+"“",7796,7797,"MISC",
+"Romanhelden",7820,7831,"MISC",
+"“",7927,7928,"MISC",
+"Mémoires de la marquise de Cremy",7946,7978,"LOC",
+"Jean-Jacques Rousseau",8099,8120,"PER","richtig"
+"“",8244,8245,"MISC",
+"Diderots",8409,8417,"PER","richtig"
+"Kind",8499,8503,"PER","falsch"
+"sic",8629,8632,"ORG",
+"“",8687,8688,"MISC",
+"Erzählprosa",8868,8879,"MISC",
+"Rousseau",8974,8982,"PER","richtig"
+"Diderot",8987,8994,"PER","richtig"
+"Erzählprosa",9306,9317,"LOC",
+"Erzählprosa",9688,9699,"LOC",
+"“",9747,9748,"MISC",
+"Huet",9922,9926,"MISC",
+"“",10007,10008,"MISC",
+"Abbé Irailh",10177,10188,"MISC",
+"Romans",10237,10243,"PER","falsch"
+"Werner Krauss",10715,10728,"PER","richtig"
+"Marmontel",10745,10754,"PER","richtig"
+"“",10854,10855,"MISC",
+"Zeit",11590,11594,"MISC",
+"Aufklärungsromans",12425,12442,"LOC",
+"Rétif de la Bretonne",12635,12655,"PER","richtig"
+"sozialen",13157,13165,"MISC",
+"Rousseau",13257,13265,"PER","richtig"
+"“",13954,13955,"MISC",
+"Pariser",14165,14172,"LOC",
+"“",14286,14287,"MISC",
+"Rousseaus",,,,
+,14654,14664,"PER","falsch"
+"“",15280,15281,"MISC",
+"Rétif",15447,15452,"MISC",
+"sozialen",15474,15482,"MISC",
+"Nuits de Paris",15535,15549,"LOC",
+"Paris",15578,15583,"LOC",
+"anno 2093",15625,15634,"MISC",
+"Zeit vom Ende der Könige“",15687,15712,"MISC",
+"Rétif",16073,16078,"MISC",
+"Verschiedenes“",16088,16102,"MISC",
+"Rétifs",16460,16466,"PER","richtig"
+"Henri Bachelin",16556,16570,"PER","richtig"
+"lesenswertesten",16606,16621,"MISC",
+"soziale",16675,16682,"MISC",
+"Le Thesmographe",16702,16717,"MISC",
+"Le Pornographe",16719,16733,"LOC",
+"La Découverte",16735,16748,"LOC",
+"australische",16764,16776,"MISC",
+"Das Leben meines Vaters“",16847,16871,"MISC",
+"Monsieur Nicolas",16874,16890,"MISC",
+"ou le coeur humain dévoilé",16892,16918,"MISC",
+"Monsieur Nicolas",16931,16947,"MISC",
+"entschleierte menschliche Herz“",16957,16988,"MISC",
+"Le Ménage parisien",17005,17023,"PER","falsch"
+"Der Pariser Haushalt",17026,17046,"MISC",
+"Le Paysan perverti",17054,17072,"MISC",
+"Der verdorbene Bauer“",17075,17096,"MISC",
+"romaneske Züge",17132,17146,"PER","falsch"
+"Entsetzen vor dem Laster",17357,17381,"MISC",
+"plaire et instruire“",17568,17588,"MISC",
+"Rétif",17948,17953,"PER","richtig"
+"französischen Gesellschaft des späten 18",18068,18108,"ORG",
+"sozialen",18169,18177,"MISC",
+"Zeit",18275,18279,"MISC",
+"Rétif",18374,18379,"PER","richtig"
+"Prosagenres",19049,19060,"LOC",
+"sage",19398,19402,"PER","falsch"
+"Rousseaus",19457,19466,"PER","richtig"
+"Richardsons",19468,19479,"PER","richtig"
+"Marmontels",19481,19491,"LOC",
+"La Bretonnes",19496,19508,"LOC",
+"sic",19514,19517,"ORG",
+"Le paysan perverti ou les dangers de la ville",19959,20004,"PER","falsch"
+"Der verdorbene Bauer",20013,20033,"MISC",
+"La paysanne pervertie",20068,20089,"MISC",
+"Die verdorbene Bäuerin“",20098,20121,"MISC",
+"Bürgertums",20329,20339,"MISC",
+"sozialen",20465,20473,"MISC",
+"Ständeordnung",20479,20492,"ORG",
+"Stadt",20560,20565,"LOC",
+"“",,,,
+,21214,21216,"MISC",
+"“",21278,21279,"MISC",
+"Zeit",21320,21324,"MISC",
+"“",21367,21368,"MISC",
+"Der junge Mann",21431,21445,"MISC",
+"Reue",21569,21573,"MISC",
+"Reue",21939,21943,"MISC",
+"Leibe",21986,21991,"MISC",
+"“",22091,22092,"MISC",
+"Rétif de la Bretonne",22121,22141,"PER","richtig"
+"Landlebens",22327,22337,"LOC",
+"Bernardin de Saint-Pierre",22445,22470,"PER","richtig"
+"hinreißendem Pathos",22552,22571,"PER","falsch"
+"“",22639,22640,"MISC",
+"Robinsonaden",22885,22897,"MISC",
+"Indischen Ozean",22938,22953,"LOC",
+"Latour",23043,23049,"PER","richtig"
+"Marguerite",23135,23145,"PER","richtig"
+"Land",23497,23501,"PER","falsch"
+"Paul",23750,23754,"PER","richtig"
+"Frankreich",23826,23836,"LOC",
+"Goethe",24587,24593,"PER","richtig"
+"französische",24655,24667,"MISC",
+"Revolution",24777,24787,"MISC",
+"Staaten",24899,24906,"LOC",
+"“",25038,25039,"MISC",
+"Rousseaus",25177,25186,"PER","richtig"
+"Daseins",25831,25838,"PER","falsch"
+"Virginie",25897,25905,"PER","richtig"
+"Virginiens",26078,26088,"PER","richtig"
+"Frankreich",26114,26124,"LOC",
+"europäischen",26195,26207,"MISC",
+"Frankreich",26306,26316,"LOC",
+"Berquin",26344,26351,"PER","richtig"
+"Florian",26356,26363,"PER","richtig"
+"Rousseaus",26834,26843,"PER","richtig"
+"Wesens",26903,26909,"PER","falsch"
+"Mitgefühl",27046,27055,"PER","falsch"
+"Bernardin",27192,27201,"PER","richtig"
+"Bernardin",27516,27525,"PER","richtig"
+"Marmontel",27828,27837,"PER","richtig"
+"Rétif de la Bretonne",27839,27859,"PER","richtig"
+"Bernardin de Saint-Pierre",27864,27889,"PER","richtig"
+"bürgerliche Gesellschaft",28122,28146,"ORG",
+"Werke Rétifs",28315,28327,"ORG",
+"Bereiche",28457,28465,"LOC",
+"Marmontel",28827,28836,"LOC",
+"Bernardin",28841,28850,"LOC",
+"Rétif",28861,28866,"PER","richtig"
+"Enzyklopädie-„Roman“",29006,29026,"MISC",
+"Jaucourt",29038,29046,"PER","richtig"
+"Engländern",29148,29158,"MISC",
+"Richardson",29173,29183,"PER","richtig"
+"Fielding",29188,29196,"LOC",
+"Dichtungsgenre",29223,29237,"PER","falsch"
+"Romans",29428,29434,"PER","falsch"
+"Zeit",29445,29449,"MISC",
+"Frankreich",29525,29535,"LOC",
+"Crébillon fils",30384,30398,"PER","richtig"
+"Rousseauscher",30421,30434,"PER","teilrichtig"
+"Choderlos de Laclos",30445,30464,"PER","richtig"
+"Briefroman Les liaisons dangereuses",30485,30520,"MISC",
+"Die gefährlichen Liebschaften“",30529,30559,"MISC",
+"Marquis de Sade",30731,30746,"MISC",
+"“",30880,30881,"MISC",
+"“",31093,31094,"MISC",
+"Laclos’",31262,31269,"MISC",
+"Sades",31274,31279,"PER","richtig"
+"Französische Revolution",31288,31311,"MISC",
+"“",31331,31332,"MISC",
+"Rousseaus „Nouvelle Héloïse",31393,31420,"PER","teilrichtig"
+"Im Jahre 1761",31422,31435,"MISC",
+"französischen",31480,31493,"MISC",
+"Jean-Jacques Rousseaus Julie ou La Nouvelle Héloïse",31506,31557,"PER","teilrichtig"
+"Lettres de deux amants habitants",31559,31591,"PER","falsch"
+"Julie",31631,31636,"MISC",
+"Die neue Heloïse",31642,31658,"MISC",
+"Alpen",31715,31720,"LOC",
+"Paris",31809,31814,"LOC",
+"Paris",31912,31917,"LOC",
+"Montmorency",31940,31951,"LOC",
+"Rousseau",31988,31996,"PER","richtig"
+"Rousseau",32355,32363,"PER","richtig"
+"Nouvelle Héloïse",32403,32419,"MISC",
+"Contrat social",32425,32439,"ORG",
+"Gesellschaftsvertrag“",32442,32463,"MISC",
+"sur la législation de la Corse",32530,32560,"MISC",
+"Verfassung Korsikas“",32585,32605,"MISC",
+"Considérations sur le gouvernement de Pologne",32618,32663,"LOC",
+"Betrachtungen über die Regierung Polens“",32672,32712,"MISC",
+"Rousseaus",32784,32793,"PER","richtig"
+"Nouvelle Héloïse",32825,32841,"PER","falsch"
+"“",33740,33741,"MISC",
+"Rousseau",33768,33776,"PER","richtig"
+"cs",33931,33933,"ORG",
+"Nouvelle Héloïse",33993,34009,"LOC",
+"Saint-Preux",34040,34051,"LOC",
+"Julie",34218,34223,"PER","unklar"
+"Saint-Preux",34375,34386,"LOC",
+"Julie",34391,34396,"LOC",
+"Engländers",34542,34552,"LOC",
+"England",34569,34576,"LOC",
+"Julie",34607,34612,"PER","unklar"
+"Wolmar",35203,35209,"LOC",
+"Saint-Preux",35637,35648,"LOC",
+"Wolmars",35877,35884,"LOC",
+"Saint-Preux",35932,35943,"LOC",
+"Saint-Preux",36242,36253,"LOC",
+"Rousseaus",36356,36365,"PER","richtig"
+"Zeit",36723,36727,"MISC",
+"Julies",36849,36855,"PER","unklar"
+"Julies",37100,37106,"PER","unklar"
+"Einklang",37340,37348,"LOC",
+"Rousseau",37362,37370,"PER","richtig"
+"Julie",37412,37417,"PER","unklar"
+"Saint-Prcux",37535,37546,"PER","unklar"
+"Rousseau",37743,37751,"PER","richtig"
+"Julie",37820,37825,"PER","unklar"
+"Saint-Preux",37993,38004,"PER","unklar"
+"Rousseaus Roman La Nouvelle-Héloïse",38075,38110,"PER","teilrichtig"
+"ständischen",38184,38195,"MISC",
+"Julie",38249,38254,"LOC",
+"Saint-Preux",38259,38270,"LOC",
+"“",38748,38749,"MISC",
+"Richter",38944,38951,"MISC",
+"Hofmann",39049,39056,"PER","richtig"
+"Rousseaus",39749,39758,"PER","richtig"
+"französischen",39769,39782,"MISC",
+"Nouvelle Héloïse",39829,39845,"PER","unklar"
+"“",40053,40054,"MISC",
+"Volks",40076,40081,"MISC",
+"Pariser Häusern",40179,40194,"MISC",
+"Franzosen",40244,40253,"LOC",
+"Stadt",40287,40292,"LOC",
+"sechshunderttausend Seelen",40303,40329,"PER","falsch"
+"Frankreich",40599,40609,"LOC",
+"Grafen",40622,40628,"LOC",
+"Chevaliers",40633,40643,"LOC",
+"französischen",40799,40812,"MISC",
+"soziale",40924,40931,"MISC",
+"sozialen",41057,41065,"MISC",
+"Rousseaus",41163,41172,"PER","richtig"
+"befangene Theoretiker",41261,41282,"PER","falsch"
+"Mann von Welt",41395,41408,"PER","falsch"
+"“",42232,42233,"MISC",
+"“",42318,42319,"MISC",
+"Bürger",42708,42714,"MISC",
+"Adligem",42719,42726,"PER","falsch"
+"Gutsbesitzern",43033,43046,"MISC",
+"Rousseau",43129,43137,"PER","richtig"
+"Nouvelle Héloïse",43192,43208,"MISC",
+"Theatercoup",43321,43332,"MISC",
+"“",43523,43524,"MISC",
+"“",43780,43781,"MISC",
+"“",44028,44029,"MISC",
+"Landvolk",44103,44111,"MISC",
+"“",44123,44124,"MISC",
+"“",44340,44341,"MISC",
+"“",44421,44422,"MISC",
+"“",44499,44500,"MISC",
+"Familienlebens",44577,44591,"MISC",
+"Landvolk",44684,44692,"LOC",
+"sic",44843,44846,"ORG",
+"taten“.Rousseau",44865,44880,"LOC",
+"Nouvelle Héloïse",45184,45200,"PER","unklar"
+"Rousseaus",45207,45216,"PER","richtig"
+"sozialen",45352,45360,"MISC",
+"Rousseaus Idealismus",45383,45403,"PER","teilrichtig"
+"Nouvelle Héloïse",45442,45458,"PER","unklar"
+"Citoyen",45812,45819,"PER","falsch"
+"cs",45891,45893,"ORG",
+"Paris",45934,45939,"LOC",
+"Landvolk",45952,45960,"LOC",
+"Rousseau",46120,46128,"PER","richtig"
+"enzyklopädistischen Partei los",46137,46167,"ORG",
+"Citoyens",46281,46289,"ORG",
+"“",46450,46451,"MISC",
+"Diderot",46704,46711,"PER","richtig"
+"Rousseau",46926,46934,"PER","richtig"
+"Eigentums",47737,47746,"MISC",
+"Luxus",47780,47785,"LOC",
+"nehmen“","......",49133,49147,"MISC"
+"“",,,,
+,49231,49233,"MISC",
+"Rousseau",49319,49327,"PER","richtig"
+"Contrat social",49331,49345,"ORG",
+"Gesellschaftsvertrag“",49354,49375,"MISC",
+"VIII.",49406,49411,"PER","falsch"
+"Citoyenmoral",50404,50416,"LOC",
+"Zeit",50702,50706,"MISC",
+"Nouvelle Héloïse",50741,50757,"LOC",
+"Die Bekenntnisse“",50824,50841,"MISC",
+"Rousseau",50853,50861,"PER","richtig"
+"Zeit",50879,50883,"MISC",
+"Nouvelle Héloïse",50896,50912,"PER","unklar"
+"Citoyen",51086,51093,"PER","falsch"
+"“",51235,51236,"MISC",
+"“",51367,51368,"MISC",
+"heroisch-erhabenen",51493,51511,"MISC",
+"“",51707,51708,"MISC",
+"Zeit",52113,52117,"MISC",
+"Rousseau",52236,52244,"PER","richtig"
+"Zeit",52707,52711,"MISC",
+"Schweizer",52735,52744,"MISC",
+"La Nouvelle Héloïse",52822,52841,"MISC",
+"Marivaux",52931,52939,"ORG",
+"Prévost",52944,52951,"PER","richtig"
+"Zeit",52999,53003,"MISC",
+"Rousseau",53075,53083,"PER","richtig"
+"sic",53763,53766,"ORG",
+"hienie-den",53995,54005,"MISC",
+"“",54029,54030,"MISC",
+"Die Literatur",54358,54371,"MISC",
+"“",54407,54408,"MISC",
+"“",54803,54804,"MISC",
+"“",54866,54867,"MISC",
+"“",55030,55031,"MISC",
+"“",55094,55095,"MISC",
+"Zeit",55244,55248,"MISC",
+"Schweiz",55310,55317,"LOC",
+"Paris",55401,55406,"LOC",
+"England",55411,55418,"LOC",
+"Land",56220,56224,"LOC",
+"Stadt",56275,56280,"LOC",
+"Viehhof",56355,56362,"LOC",
+"Billardtischs",56450,56463,"LOC",
+"Blumenbeet",56739,56749,"PER","falsch"
+"Richardsons",57318,57329,"PER","richtig"
+"Citoyengesinnung",57454,57470,"PER","falsch"
+"Nouvelle Héloïse",57591,57607,"LOC",
+"sozialer",57769,57777,"MISC",
+"gipfelnden Gesellschaftsbeziehungen",57787,57822,"PER","falsch"
+"Nouvelle Héloïse",57999,58015,"PER","unklar"
+"Hymnen“",58160,58167,"MISC",
+"Nouvelle Héloïse",58332,58348,"MISC",
+"sozialen",59309,59317,"MISC",
+"sozialen",59678,59686,"MISC",
+"Diderots Erzählprosa",,,,
+,59702,59723,"ORG",
+"Rousseau",59731,59739,"PER","richtig"
+"Diderots",59820,59828,"PER","richtig"
+"La Religieuse",60037,60050,"PER","falsch"
+"Die Nonne“",60053,60063,"MISC",
+"Le Neveu de Rameau",60094,60112,"PER","falsch"
+"Diderot",60411,60418,"PER","richtig"
+"Diderot",60757,60764,"PER","richtig"
+"Rousseau",60776,60784,"PER","richtig"
+"Rousseaus",60912,60921,"PER","richtig"
+"Rousseau",60967,60975,"PER","richtig"
+"Bourgeoisie",61418,61429,"ORG",
+"Rousseaus",61759,61768,"PER","richtig"
+"Diderot",61932,61939,"PER","richtig"
+"Diderot",62105,62112,"PER","richtig"
+"“",62306,62307,"MISC",
+"Diderot",62334,62341,"LOC",
+"“",62811,62812,"MISC",
+"feudalabsolutistischen Staat",63247,63275,"LOC",
+"Diderot",63358,63365,"PER","richtig"
+"Gesetz gegen den Wucher",63809,63832,"MISC",
+"“",63890,63891,"MISC",
+"Diderot",64110,64117,"PER","richtig"
+"sozialen",64321,64329,"MISC",
+"Besitzes",64387,64395,"LOC",
+"Supplément au voyage de Bougainville",65018,65054,"LOC",
+"Nachtrag zu Bougainvilles",65063,65088,"MISC",
+"Tahiti",65182,65188,"LOC",
+"kommunistischen",65231,65246,"MISC",
+"Diderot",65534,65541,"PER","richtig"
+"Naturzustand",65624,65636,"LOC",
+"Helvétius",65774,65783,"PER","richtig"
+"“",66058,66059,"MISC",
+"Diderot",66075,66082,"PER","richtig"
+"Dichtungsgenres",66390,66405,"PER","falsch"
+"Rousseau",66573,66581,"PER","richtig"
+"Diderot",66643,66650,"PER","richtig"
+"Rousseau",66655,66663,"PER","richtig"
+"Hol-bach-Gruppe",66733,66748,"LOC",
+"Encyclopédie",66833,66845,"PER","falsch"
+"Helvétius’ De l’esprit",66912,66934,"PER","teilrichtig"
+"philosophiques Diderots",66970,66993,"PER","teilrichtig"
+"Palissots",67020,67029,"PER","richtig"
+"Les philosophes",67057,67072,"PER","falsch"
+"Kampagne",67088,67096,"LOC",
+"Diderot",67138,67145,"PER","richtig"
+"französischen Gesellschaft seiner Zeit",67548,67586,"ORG",
+"Diderot",67867,67874,"PER","richtig"
+"La religieuse",67915,67928,"PER","falsch"
+"Die Nonne“",67937,67947,"MISC",
+"Le neveu de Rameau",67953,67971,"MISC",
+"“",68134,68135,"MISC",
+"Zeit",68155,68159,"MISC",
+"“",68309,68310,"MISC",
+"Croismare",68471,68480,"PER","richtig"
+"Zeit",68493,68497,"MISC",
+"Diderot",68847,68854,"PER","richtig"
+"Marquis",68913,68920,"PER","falsch"
+"Paris",68980,68985,"LOC",
+"“",69080,69081,"MISC",
+"“",69154,69155,"MISC",
+"Diderot",69178,69185,"LOC",
+"Diderot",69272,69279,"PER","richtig"
+"Mädchens",69443,69451,"PER","falsch"
+"Klosterregeln",69835,69848,"LOC",
+"Aberglaube",69996,70006,"LOC",
+"Neid",70008,70012,"LOC",
+"Bosheit",70014,70021,"LOC",
+"Nonne",70230,70235,"LOC",
+"Mitgift",70563,70570,"LOC",
+"zeugendes Motiv",70773,70788,"PER","falsch"
+"Suzanne",70898,70905,"PER","richtig"
+"Suzanne",70980,70987,"LOC",
+"Suzannes",71722,71730,"LOC",
+"christlichen",71837,71849,"MISC",
+"Diderot",71873,71880,"PER","richtig"
+"Suzannes",72339,72347,"LOC",
+"Sympathie",72421,72430,"PER","falsch"
+"Die Nonne",72581,72590,"MISC",
+"Erkenntnissen",72653,72666,"PER","falsch"
+"Diderot",72672,72679,"PER","richtig"
+"englischen",72688,72698,"MISC",
+"Richardson",72709,72719,"PER","richtig"
+"Eloge de Richardson",72737,72756,"PER","unklar"
+"Lobrede auf Richardson“",72766,72789,"MISC",
+"Diderot Richardsons",72797,72816,"PER","teilrichtig"
+"“",73036,73037,"MISC",
+"“",73099,73100,"MISC",
+"“",73209,73210,"MISC",
+"“",73225,73226,"MISC",
+"“",73331,73332,"MISC",
+"Richardson",73362,73372,"MISC",
+"“",73416,73417,"MISC",
+"Zeit",73552,73556,"MISC",
+"Das menschliche Herz",73635,73655,"MISC",
+"de Richardson",74091,74104,"PER","unklar"
+"Diderots",74227,74235,"LOC",
+"La Religieuse",74314,74327,"LOC",
+"Richardson",74519,74529,"PER","richtig"
+"deutschen",74977,74986,"MISC",
+"Goethe",75003,75009,"PER","richtig"
+"Petersburger",75029,75041,"LOC",
+"Rameaus Neffe",75200,75213,"PER","teilrichtig"
+"französischer Sprache",75304,75325,"MISC",
+"Der Held dieses Dialogs",75342,75365,"MISC",
+"französischen",75431,75444,"MISC",
+"Rameau",75457,75463,"PER","richtig"
+"Frei",,,,
+,76117,76122,"PER","falsch"
+"Salomons",76786,76794,"PER","richtig"
+"“",,,,
+,76958,76960,"MISC",
+"“",77071,77072,"MISC",
+"“",77188,77189,"MISC",
+"’s",77273,77275,"MISC",
+"’s",77422,77424,"MISC",
+"’s",77447,77449,"MISC",
+"’s",77495,77497,"MISC",
+"Harlekins Rock!“",77549,77565,"MISC",
+"Rameau",77670,77676,"PER","richtig"
+"gehn",77743,77747,"LOC",
+"Herrn Prior",77758,77769,"PER","richtig"
+"gehn",77801,77805,"LOC",
+"“",77831,77832,"MISC",
+"Tages",77925,77930,"MISC",
+"“",78157,78158,"MISC",
+"“",78466,78467,"MISC",
+"unendlichen Ozean",78833,78850,"LOC",
+"Weltverbesserer“",79371,79387,"MISC",
+"’s",79742,79744,"MISC",
+"“",79817,79818,"MISC",
+"“",79944,79945,"MISC",
+"Naturzustand",80008,80020,"LOC",
+"Gewerbefleiß",80111,80123,"LOC",
+"“",80340,80341,"MISC",
+"Die Wahrheit muß",80379,80395,"MISC",
+"Diderot",80458,80465,"PER","richtig"
+"Diderot",80828,80835,"PER","richtig"
+"Gesprächspartner",81314,81330,"PER","falsch"
+"Rameaus Neffe",81556,81569,"PER","teilrichtig"
+"“",81659,81660,"MISC",
+"Hegel",81683,81688,"PER","richtig"
+"Diderot",81770,81777,"PER","richtig"
+"Diderots",82434,82442,"PER","richtig"
+"Diderot",82866,82873,"PER","richtig"
+"soziale",82956,82963,"MISC",
+"Bourbonne“",83081,83091,"MISC",
+"Jacques le fataliste",83100,83120,"PER","teilrichtig"
+"Jacques",83177,83184,"PER","richtig"
+"Bourbonne",83238,83247,"LOC",
+"Felix Olivier",83446,83459,"PER","richtig"
+"Hause",83629,83634,"LOC",
+"“",83703,83704,"MISC",
+"“",83778,83779,"MISC",
+"Der erste",83863,83872,"MISC",
+"Felix",83945,83950,"PER","richtig"
+"Felix",83975,83980,"PER","richtig"
+"“",84116,84117,"MISC",
+"Felix",84414,84419,"MISC",
+"Zeit",84762,84766,"MISC",
+"“",84874,84875,"MISC",
+"Diderot",85018,85025,"PER","richtig"
+"Felix",85068,85073,"PER","richtig"
+"Teufel",85088,85094,"PER","unklar"
+"Olivier",85114,85121,"PER","richtig"
+"Teufel",85140,85146,"PER","unklar"
+"Schluß",85287,85293,"LOC",
+"ständischen",85509,85520,"MISC",
+"Werner Krauss",85898,85911,"PER","richtig"
+"Diderot",86449,86456,"PER","richtig"
+"Jacques le Fataliste",86480,86500,"PER","richtig"
+"Weges",87016,87021,"MISC",
+"Dialogen",87262,87270,"LOC",
+"Diderot",87337,87344,"PER","richtig"
+"Laurence Sterne",87383,87398,"PER","richtig"
+"Jacques’",87572,87580,"PER","richtig"
+"Bürgertums",87806,87816,"MISC",
+"Diderot",87869,87876,"PER","richtig"
+"Jacques’",88107,88115,"PER","richtig"
+"la Pommeraye",88277,88289,"PER","unklar"
+"französischen",88449,88462,"MISC",
+"Schiller",88975,88983,"PER","richtig"
+"Deutsche",89106,89114,"MISC",
+"Kirche",89267,89273,"ORG",
+"sozialen",89355,89363,"MISC",
+"Jacques’",89411,89419,"PER","richtig"
+"“",89858,89859,"MISC",
+"Jacques",89871,89878,"PER","richtig"
+"Bourbonne",90344,90353,"LOC",
+"Jacques",90362,90369,"PER","richtig"
+"“",90654,90655,"MISC",
+"Jacques",90715,90722,"MISC",
+"Daseins",90916,90923,"PER","falsch"
+"Erzähler",90978,90986,"MISC",
+"Jacques",91349,91356,"PER","richtig"
+"“",91690,91691,"MISC",
+"“",91758,91759,"MISC",
+"Jacques",91772,91779,"PER","richtig"
+"“",91883,91884,"MISC",
+"Schluß",91892,91898,"LOC",
+"Diderot",91922,91929,"PER","richtig"
+"Jacques",91935,91942,"PER","richtig"
+"Jacques le Fataliste",91992,92012,"PER","teilrichtig"
+"sozialen",92345,92353,"MISC",
+"Diderot",92428,92435,"PER","richtig"
+"Diderot",92608,92615,"PER","richtig"
+"Les",,,,
+"deux amis de Bourbonne",92854,92880,"LOC",
+"Ich schreibe Geschichte“",93039,93063,"MISC",
+"Diderot",93069,93076,"PER","richtig"
+"Jacques le Fataliste",93082,93102,"PER","teilrichtig"
+"Diderot",93155,93162,"PER","richtig"
+"Der Faden der Erzählung",93189,93212,"MISC",
+"Diderot",93490,93497,"PER","richtig"
+"Jacques",93762,93769,"PER","richtig"
+"Der Diener Jacques",93886,93904,"MISC",
+"Bourbonne",94028,94037,"LOC",
+"Schichten",94308,94317,"MISC",
+"Herrn",94350,94355,"PER","falsch"
+"Jacques",94753,94760,"PER","richtig"
+"Jacques",94976,94983,"LOC",
+"Jacques",95250,95257,"PER","richtig"
+"Diderot",95400,95407,"PER","richtig"
+"Lesages",95667,95674,"LOC",
+"Gil Blas",95675,95683,"PER","richtig"
+"Marivaux’ Paysan parvenu",95692,95716,"MISC",
+"Jacques",95841,95848,"PER","richtig"
+"Jacques",95997,96004,"PER","richtig"
+"Hegel",96051,96056,"PER","richtig"
+"Herrschaft und Knechtschaft“",96086,96114,"MISC",
+"Jacques le Fataliste",96224,96244,"PER","teilrichtig"
+"Französische Revolution",96555,96578,"MISC",
+"Diderot",96639,96646,"PER","richtig"
+"Herr-Knecht-Verhältnis",96731,96753,"LOC",
+"Revolution",97124,97134,"MISC",
+"Marmontels",97322,97332,"LOC",
+"sozialen",97381,97389,"MISC",
+"Diderot",97660,97667,"PER","richtig"
+"La Religieuse",97837,97850,"LOC",
+"Les deux amis de Bourbonne",97855,97881,"LOC",
+"Neveu de Rameau",97940,97955,"LOC",
+"deutschen",98426,98435,"MISC",
+"Hegel",98466,98471,"PER","richtig"
+"Goethe",98476,98482,"PER","richtig"
+"Bertolt Brecht",98562,98576,"PER","richtig"
+"Georges May",98652,98663,"PER","richtig"
+"französische",98687,98699,"MISC",
+"französischen",98803,98816,"MISC",
+"F. C. Green",98973,98984,"PER","richtig"
+"ständischen",99313,99324,"MISC",
+"Aufklärungsroman",100375,100391,"PER","falsch"
+"Aufklärungsromans",100542,100559,"LOC",
+"Zeit",100707,100711,"MISC",
