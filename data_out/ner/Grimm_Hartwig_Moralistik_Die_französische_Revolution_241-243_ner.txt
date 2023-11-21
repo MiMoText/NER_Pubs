@@ -1,0 +1,119 @@
+start 
+Moralistik, 0, 10, MISC
+Duclos, 340, 346, PER
+Diskursregeln, 1013, 1026, MISC
+Pessimist, 1174, 1183, PER
+diskret, 1199, 1206, PER
+französischen, 1300, 1313, MISC
+Montaigne, 1350, 1359, PER
+Pierre Charrons De la sagesse, 1389, 1418, PER
+Pascal, 1441, 1447, PER
+Condorcet, 1463, 1472, PER
+Condorcet, 1497, 1506, PER
+Voltaire, 1511, 1519, PER
+Pensees, 1534, 1541, LOC
+Luc de Clapiers, 1544, 1559, PER
+Marquis de Vauvenargues, 1561, 1584, PER
+La Bruyere, 1695, 1705, LOC
+Nicolas Chamfort, 1860, 1876, PER
+Gesellschaft des Ancien, 1886, 1909, ORG
+Französischen Revolution, 1968, 1992, MISC
+Maximes et pensees, 2024, 2042, PER
+Ferdinand Galiani, 2069, 2086, PER
+Abbes, 2144, 2149, PER
+Neapel, 2158, 2164, LOC
+Paris, 2193, 2198, LOC
+Antoine de Rivarol, 2386, 2404, PER
+Berliner Akademie, 2503, 2520, ORG
+französischen, 2572, 2585, MISC
+Notes, 2620, 2625, PER
+Joseph Joubert, 2833, 2847, PER
+Joubert, 2903, 2910, PER
+französischen, 2932, 2945, MISC
+preußischen, 2980, 2991, MISC
+Immanuel Kant, 3005, 3018, PER
+Chateaubriand, 3060, 3073, PER
+Jouberts Notaten, 3102, 3118, MISC
+pensees de M. Joubert, 3147, 3168, PER
+Knigge, 3199, 3205, PER
+Madame de Stael, 3211, 3226, PER
+Joubert, 3233, 3240, PER
+Joubert, 3382, 3389, PER
+La raison, 3608, 3617, MISC
+penchants dont elle, 3629, 3648, ORG
+Vauvenargues, 3673, 3685, ORG
+Französische Revolution, 3692, 3715, MISC
+Französischen Revolution, 3720, 3744, MISC
+Revolution, 3880, 3890, MISC
+Revolution, 4306, 4316, MISC
+Chamfort, 4379, 4387, MISC
+Mably, 4392, 4397, LOC
+Marat, 4399, 4404, LOC
+Linguet, 4409, 4416, LOC
+Anacharsis Cloots, 4418, 4435, LOC
+Abbe Sieyes, 4483, 4494, PER
+Publizistisch, 4500, 4513, PER
+L’Ami du peuple, 4588, 4603, MISC
+Le Pere Duchesne, 4605, 4621, PER
+La De-cade philosophique, 4627, 4651, LOC
+Madame de Staels, 4699, 4715, PER
+Benjamin Constants, 4717, 4735, PER
+Chateaubriands, 4740, 4754, LOC
+Joseph de Maistres, 4828, 4846, PER
+Louis de Bonalds, 4851, 4867, PER
+republikanische, 4973, 4988, MISC
+Jacques-Louis Davids, 5029, 5049, PER
+Claude-Nicolas Ledoux, 5051, 5072, PER
+Marie-Joseph Cheniers, 5103, 5124, PER
+Sylvain Marechal, 5221, 5237, PER
+Marseillaise, 5257, 5269, MISC
+Qa ira, 5271, 5277, LOC
+Isabelle de Charrieres, 5420, 5442, PER
+Madame de Genlis, 5444, 5460, PER
+Xavier de Maistres, 5463, 5481, PER
+Voyage autour de ma chambre, 5483, 5510, MISC
+Gabriel Senacs de Meilhan, 5522, 5547, PER
+L'emigre, 5549, 5557, LOC
+Charles de Villers, 5566, 5584, PER
+Deutschland, 5594, 5605, LOC
+Kants, 5767, 5772, PER
+Retif de La Bretonne, 5881, 5901, MISC
+Lous-Sebastien, 5903, 5917, LOC
+Marie-Joseph Chenier, 5930, 5950, PER
+Condorcet, 6107, 6116, PER
+Ideo-logues, 6260, 6271, PER
+Destutt de Tracy, 6286, 6302, LOC
+Cabanis, 6304, 6311, PER
+Decade philosophique, 6320, 6340, LOC
+Germaine de Stael, 6467, 6484, PER
+Benjamin Constant, 6489, 6506, PER
+P.-A. Alt, 6589, 6598, PER
+Alphonse Francois de Sade, 6637, 6662, PER
+Charenton, 6731, 6740, LOC
+Le comte Oxtiern, 6877, 6893, MISC
+Les malheurs du libertinage, 6897, 6924, LOC
+Sade, 6933, 6937, MISC
+Aline et Valcour, 7026, 7042, PER
+La Philosophie dans le boudoir, 7050, 7080, MISC
+La nouvelle Justine ou Les malheurs de la vertu, 7088, 7135, MISC
+Histoire de Juliette ou Les prosperites du vice, 7144, 7191, PER
+Voltaires, 7238, 7247, PER
+Rousseaus Julie, 7260, 7275, PER
+Bernardin de Saint-Pierres, 7423, 7449, PER
+Volneys Les ruines ou Meditations sur les revolutions, 7478, 7531, MISC
+empires, 7536, 7543, LOC
+Chateaubriands Le, 7559, 7576, LOC
+Chateaubriands, 7703, 7717, LOC
+Essai sur les revolutions, 7718, 7743, MISC
+Condorcet, 7819, 7828, PER
+Literaturgeschichtsschreibung, 8016, 8045, MISC
+La Harpes Kompendium Lycee, 8120, 8146, LOC
+Madame de Staels De la litterature consideree dans ses rapports avec les institutions sociales, 8168, 8262, PER
+Stael, 8421, 8426, PER
+sozialer, 8568, 8576, MISC
+hinwegfegt, 8939, 8949, PER
+Victor Hugo, 8954, 8965, PER
+Voltaire, 9030, 9038, PER
+Diderot, 9043, 9050, PER
+Komödiendichter Marivaux, 9056, 9080, LOC
+Rousseau, 9112, 9120, PER
